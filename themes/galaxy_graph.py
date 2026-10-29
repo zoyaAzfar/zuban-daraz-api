@@ -95,7 +95,7 @@ THEME_COLOR[OTHER] = "#9a9a9a"
 # ---------------------------------------------------------------- load data
 client = libsql_client.create_client_sync(url=TURSO_URL, auth_token=AUTH_TOKEN)
 result = client.execute(
-    "SELECT rowid, word, literal_definition, language FROM entries "
+    "SELECT id, word, literal_definition, language FROM entries "
     "WHERE status='approved' AND LOWER(pos) LIKE '%idiom%'"
 )
 client.close()
