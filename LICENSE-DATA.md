@@ -1,0 +1,18 @@
+# Creative Commons Attribution-ShareAlike 4.0 International Public License
+
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-ShareAlike 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+
+## Standard Notice:
+
+This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
+
+You are free to:
+* **Share** — copy and redistribute the material in any medium or format
+* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+* **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+The full legal text of the license can be found online at:
+https://creativecommons.org
