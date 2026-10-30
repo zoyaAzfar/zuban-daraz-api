@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "zubandaraz"
+version = "0.1.0"
+description = "Python client for the Zuban Daraz South Asian Proverb API"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+dependencies = ["requests>=2.25"]
+keywords = ["proverbs", "south asia", "idioms", "linguistics", "api", "urdu", "hindi", "punjabi"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Topic :: Text Processing :: Linguistic",
+]
+
+[project.urls]
+Homepage = "https://github.com/YOUR-USERNAME/zuban-daraz-api"
+Issues = "https://github.com/YOUR-USERNAME/zuban-daraz-api/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
