@@ -1,0 +1,3362 @@
+[
+  {
+    "id": 7,
+    "proverb": "مرد بن مرد",
+    "translation": "Be a man",
+    "language": "Urdu",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 24,
+    "proverb": "چوڑیاں پہننا",
+    "translation": "to wear bangles (implying cowardice) from a man",
+    "language": "Urdu",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 44,
+    "proverb": "بُڈھے دی رَن ناں مرے، تے بال دی ماں ناں مرے",
+    "translation": "May an old man's wife not die, and may a child's mother not die. Reflects rural social structures where elderly men and young children rely entirely on domestic caregiving from their mothers/wives.",
+    "language": "Punjabi",
+    "theme": "Age"
+  },
+  {
+    "id": 45,
+    "proverb": "بانجھ چنگی، اکونج بُری",
+    "translation": "Being childless is better than one having a single child because one can marry again with a wife who bears no children.",
+    "language": "Punjabi",
+    "theme": "Children"
+  },
+  {
+    "id": 46,
+    "proverb": "پُتراں دیاں ماواں دے وڈے وڈے جگرے",
+    "translation": "Mothers of sons possess immense courage as they are backed by their sons. ",
+    "language": "Punjabi",
+    "theme": "Children"
+  },
+  {
+    "id": 47,
+    "proverb": "جٹا! تیرے نال بُری ہوئی، گھر آئیاں نوں کُڑّی ہوئی",
+    "translation": "Jutta, misfortune has struck you! A daughter was born in your home.",
+    "language": "Punjabi",
+    "theme": "Children"
+  },
+  {
+    "id": 48,
+    "proverb": "دھی جَمدی مر جاوے جِہدا دُکھ وی نہ آوے",
+    "translation": "Better that a daughter dies at birth so that her lifelong hardships and grief never occur.",
+    "language": "Punjabi",
+    "theme": "Children"
+  },
+  {
+    "id": 49,
+    "proverb": "دھی دے مُل جوائی",
+    "translation": "A son-in-law is what you get from giving away your daughter. In someways, the ultimate measure of a daughter's worth and destiny.",
+    "language": "Punjabi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 50,
+    "proverb": "دھی دھریک تے پتر امب",
+    "translation": "A daughter is like a chinaberry (dharaik) tree, while a son is like a mango tree. (Dharaik tree grows up very quickly while the mango tree takes a longer time to mature.)",
+    "language": "Punjabi",
+    "theme": "Children"
+  },
+  {
+    "id": 51,
+    "proverb": "دھی گئ ہاسے ، پُتر گیا تماشے",
+    "translation": "If a daughter gets used to laughter (casual gossip) and if a son gets used to spending outside home, their future is likely ruined",
+    "language": "Punjabi",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 52,
+    "proverb": "دھی کسے دی مندی نہیں، نونہہ کسے دی چنگی نہیں",
+    "translation": "No one considers their own daughter bad, and no one considers their daughter-in-law good.",
+    "language": "Punjabi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 53,
+    "proverb": "دھی نالوں جوائی مہنگا",
+    "translation": "The son-in-law is more precious than a daughter. ",
+    "language": "Punjabi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 57,
+    "proverb": "دھی پرائی اجڑی، ہسن ہارَا لوک",
+    "translation": null,
+    "language": "Punjabi",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 58,
+    "proverb": "دھی پنگھوڑے لے آئی ادھورے",
+    "translation": "Refers to a daughter prematurely bringing incomplete burdens or domestic responsibilities right from childhood/cradle.",
+    "language": "Punjabi",
+    "theme": "Children"
+  },
+  {
+    "id": 59,
+    "proverb": "دھی ان بھاؤنا پروہنا اے",
+    "translation": "A daughter is like an unwelcome or temporary guest who must inevitably depart for another household.",
+    "language": "Punjabi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 60,
+    "proverb": "دھی اسری کھان پین و سرین",
+    "translation": "As a daughter grows up, her personal household expenses and dowry requirements grow alongside her.",
+    "language": "Punjabi",
+    "theme": "Marriage"
+  },
+  {
+    "id": 61,
+    "proverb": "دھی والیاں دے گھر پھوہڑی",
+    "translation": "The house of those who have daughters is always filled with worry and ongoing anxieties.",
+    "language": "Punjabi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 62,
+    "proverb": "دھی ہسدی نہ مرے، دھی وسدی نہ مرے",
+    "translation": "A daughter should neither die while laughing (bringing public scandal) nor while settled in her home (suffering silently in marriage).",
+    "language": "Punjabi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 63,
+    "proverb": "دھیاں جمدیاں نوں ہے ہے",
+    "translation": "The birth of daughters is met with immediate collective sighs and systemic worries.",
+    "language": "Punjabi",
+    "theme": "Children"
+  },
+  {
+    "id": 64,
+    "proverb": "دھیاں دی ماں رانی، بڑھاپے بھرسی پانی",
+    "translation": "A mother of daughters rules like a queen when they are young, but must draw water herself in old age once they marry away.",
+    "language": "Punjabi",
+    "theme": "Children"
+  },
+  {
+    "id": 65,
+    "proverb": "دھیاں کونجاں سدا پردیسی",
+    "translation": "Daughters are like migratory cranes, forever destined to depart for foreign lands.",
+    "language": "Punjabi",
+    "theme": "Children"
+  },
+  {
+    "id": 66,
+    "proverb": "رن بیٹھی وگڑی، جیویں چھتھی گدڑی",
+    "translation": "An angry wife is like a female jackal",
+    "language": "Punjabi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 67,
+    "proverb": "رن تے بال دونویں روبرو چنگے",
+    "translation": "A wife and a young child are best managed and cared for when kept directly before one's eyes.",
+    "language": "Punjabi",
+    "theme": "Children"
+  },
+  {
+    "id": 68,
+    "proverb": "رن ٹوہے جیب، ماں ٹوہے پیٹ",
+    "translation": "A wife checks a man's pocket for money, whereas a mother checks his stomach for hunger.",
+    "language": "Punjabi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 69,
+    "proverb": "رن دو دھاری چھری ہوندی اے",
+    "translation": "A cunning woman can act like a double-edged knife, cutting both ways if mishandled.",
+    "language": "Punjabi",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 70,
+    "proverb": "رن دے مرید دا منہ وی شرمندہ",
+    "translation": "A man excessively submissive to his wife constantly faces humiliation.",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 71,
+    "proverb": "رن سوہنی تے جان دا کھوہ",
+    "translation": "An exceptionally beautiful wife becomes a source of endless anxiety, jealousy, and danger to life.",
+    "language": "Punjabi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 72,
+    "proverb": "رن نوں بھیت نہ دے",
+    "translation": "Never share critical, high-stakes secrets with a woman because they can’t keep on",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 73,
+    "proverb": "رن گئی جد پئی راہیں، گل گئی جد پئی صلاحیں",
+    "translation": "A woman is always going out and is very gullible because she believes anyone’s advice",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 74,
+    "proverb": "ویہلی رن شیطان دا چرخہ",
+    "translation": "An idle woman's mind becomes a spinning wheel for the devil's mischief.",
+    "language": "Punjabi",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 75,
+    "proverb": "مکھی، مچھی، استری، تینے ذات کذات",
+    "translation": "Flies, fish, and fickle women, all three are unpredictable and unreliable by nature.",
+    "language": "Punjabi",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 76,
+    "proverb": "نویں جتی نویں رن، دوویں دُکھ دندیاں نے",
+    "translation": "A new shoe and a new bride both cause discomfort until one adapts to them.",
+    "language": "Punjabi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 77,
+    "proverb": "آؤن پرائیاں جائیاں، وچھوڑن سگیاں بھائیاں",
+    "translation": "Outsiders (wives from other families) arrive and end up separating blood brothers.",
+    "language": "Punjabi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 78,
+    "proverb": "سر تے گت تے کچھڑ بال، ، مینوں کدی پرواہ",
+    "translation": "With hair tied up on the head and a baby in arms, a mother fears nothing and marches forward carelessly.",
+    "language": "Punjabi",
+    "theme": "Children"
+  },
+  {
+    "id": 79,
+    "proverb": "اوہو رانیاں جو خصماں بھانیاں",
+    "translation": "Only those women are true queens who are favored and loved by their husbands.",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 80,
+    "proverb": "بھیڑا کیتا خصمیں گالھ ",
+    "translation": "A husband's poor deeds bring insult and dishonor upon himself.",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 81,
+    "proverb": "اندھیان دیاں وہٹیاں نوں سنگھار نال کیہ؟",
+    "translation": "What use is adornment and makeup for the wives of blind men?",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 82,
+    "proverb": "رنڈی دی نہیں سنی جاندی، یتیماں دی سنی جاندی اے",
+    "translation": "Society turns a deaf ear to a destitute woman, whereas orphans still elicit some sympathy.",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 83,
+    "proverb": "رنڈی دے گھر منڈی",
+    "translation": "The house of an unprotected widow (or a prostitute) can become a brothel",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 84,
+    "proverb": "رنڈی پاوے بھنڈی",
+    "translation": "A widowed or destitute woman often faces societal slander and public mockery.",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 85,
+    "proverb": "رناں وچ بہوے تاں رنوں اکھواوے",
+    "translation": "A man who spends all his time sitting among women comes to be called effeminate or henpecked.",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 86,
+    "proverb": "رناں نال متھا لاوے تاں کناں دی خیر مناوے",
+    "translation": "If a man picks arguments with women, he should pray for the safety of his ears.",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 87,
+    "proverb": "رناں دی کھری پچھے مت",
+    "translation": "A traditional patriarchal adage claiming a woman's intellect lags behind her heels.",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 88,
+    "proverb": "رناں دی ذات بےوفا اے",
+    "translation": "A traditional cynical folk claim that women are unfaithful by nature.",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 89,
+    "proverb": "رن ویہلی ، چوسیلی",
+    "translation": "An idle woman becomes overly sharp-tongued, nitpicky, and prone to creating mischief.",
+    "language": "Punjabi",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 90,
+    "proverb": "رن ویاہی تاں اندے پائی",
+    "translation": "Marrying a woman brings immediate financial, emotional, and social entanglements.",
+    "language": "Punjabi",
+    "theme": "Marriage"
+  },
+  {
+    "id": 91,
+    "proverb": "رن نوں رن چھیڑے، رن کولوں خدا ڈرے",
+    "translation": "When a woman provokes another woman, even God yields to the resulting intense conflict.",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 92,
+    "proverb": "رن ملی کپتی نہ ماری گئی نہ چٹی، غیب دی چٹی",
+    "translation": "Getting a malicious wife is an unescapable, unseen penalty; she cannot be killed, nor loved, acting as a divine tax.",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 93,
+    "proverb": "رن گئی سیاپے گھر آئی تاں جاپے",
+    "translation": "Women love to talk. So, even if they go to a place of mourning, they find a way to engage in gossip.",
+    "language": "Punjabi",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 97,
+    "proverb": "ویہلی رن پرونیاں جوگی",
+    "translation": "An idle woman avoids actual household work and instead contents herself with just chatting with guests.",
+    "language": "Punjabi",
+    "theme": "Idle & Useless"
+  },
+  {
+    "id": 98,
+    "proverb": "جیہدی باندری اوہوای نچاوے",
+    "translation": "Only the owner can make his monkey dance (or: only the husband should handle his wife).",
+    "language": "Punjabi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 99,
+    "proverb": "جس میں چمک نہیں وہ ہیرا نہیں، جس میں دمک نہیں وہ عورت نہیں",
+    "translation": "That which lacks luster is no diamond; she who lacks beauty/allure is no true woman.",
+    "language": "Urdu",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 100,
+    "proverb": "اونٹ کی پکڑ اور عورت کے مکر سے اللہ بچائے",
+    "translation": "May God save us from a camel's grip and a woman's cunning.",
+    "language": "Urdu",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 101,
+    "proverb": "غریب کی جورو سب کی بھابھی",
+    "translation": "A poor man's wife is treated as everyone's sister-in-law (approachable/exploitable by all).",
+    "language": "Urdu",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 102,
+    "proverb": "ڈٹھی چٹی چمڑی، بھول گئی امڑی",
+    "translation": "Upon seeing fair skin (a fair-complexioned woman), he completely forgot his own mother.",
+    "language": "Seraiki",
+    "theme": "Children"
+  },
+  {
+    "id": 103,
+    "proverb": "جھگڑے کی باتیں تین: زن، زر، زمین ",
+    "translation": "The causes of all strife are three: Woman, Wealth, and Land.",
+    "language": "Urdu",
+    "theme": "Property & Wealth"
+  },
+  {
+    "id": 104,
+    "proverb": "آپ ہارے بہو کو مارے",
+    "translation": "Failing or losing oneself, one takes it out by beating the daughter-in-law.",
+    "language": "Urdu",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 105,
+    "proverb": "جس کا گھر وہ ہی نہیں گھر",
+    "translation": "The home whose primary homemaker/master is absent ceases to be a true home.",
+    "language": "Urdu",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 106,
+    "proverb": "بیوی کی موت اور کہنی کی چوٹ برابر ہوتی ہے",
+    "translation": "A wife's death is like a blow to the elbow: painful at first, but quickly forgotten.",
+    "language": "Urdu",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 107,
+    "proverb": "بارہ عورتوں، ہک مرد، تڏانہیں تھیئے شہیدی پوری",
+    "translation": "Twelve women and one man, only then is a complete testimony formed.",
+    "language": "Seraiki",
+    "theme": "Marriage"
+  },
+  {
+    "id": 108,
+    "proverb": "رن گئی پیر رلی بھی گئی",
+    "translation": "When the woman left, even the quilt/bedding went with her (everything fell apart).",
+    "language": "Seraiki",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 109,
+    "proverb": "مرد رلے تا کھلے، رن رلے تا بھولے",
+    "translation": "If a man wanders, he prospers/gains exposure; if a woman wanders, she forgets (strays into ruin). ",
+    "language": "Seraiki",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 111,
+    "proverb": "نئی کنوار نواں ڈیہاں، چاندے فوکے دہ ڈیہاں، یارھوں ڈیہوں پیوس، کڑی ماں ویوس",
+    "translation": "A new bride is pampered for nine days, put to work by day ten, and by day eleven she is relegated to the hearth.",
+    "language": "Seraiki",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 112,
+    "proverb": "گھر جائی گھر میں داجی",
+    "translation": "Born in the house, she becomes a dominant force/ruler inside the house.",
+    "language": "Seraiki",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 113,
+    "proverb": "ابو گاسے، دھیئے واسے",
+    "translation": "The father wears himself out working so that his daughter may settle comfortably in her home.",
+    "language": "Seraiki",
+    "theme": "Children"
+  },
+  {
+    "id": 114,
+    "proverb": "رن ٻہ دھاری چھری ہوندی آہے۔",
+    "translation": "A woman is like a double-edged sword.",
+    "language": "Sindhi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 115,
+    "proverb": "پیڑھی ہلے پر نونہہ نہ ہلے",
+    "translation": "The stool/chair may shake, but the stubborn daughter-in-law will not budge.",
+    "language": "Punjabi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 116,
+    "proverb": "ویلا نہ وقت، بی بی چڑھ بیٹھی تخت",
+    "translation": "Without rhyme or reason, the lady went and sat on the throne ",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 117,
+    "proverb": "جیہا دودھ، تیہی بدھ",
+    "translation": "As is the mother's milk, so is the child's intellect and character.",
+    "language": "Punjabi",
+    "theme": "Children"
+  },
+  {
+    "id": 118,
+    "proverb": "اندېړ که لوېشت وي، ورېندار له بس ده",
+    "translation": "The sister-in-law may be just one foot tall, but she is enough for her brother's wife.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 119,
+    "proverb": "اندېړ کشره خواښې ده",
+    "translation": "The sister-in-law is a younger mother-in-law.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 121,
+    "proverb": "بوډۍ د شیطان ترور ده",
+    "translation": "An old woman is the devil's aunt.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 122,
+    "proverb": "چې عورت وي، غلطه وي",
+    "translation": "If she is a woman, she is automatically wrong.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 123,
+    "proverb": "چې غوا غوجلې له ځي، بدرۍ/خدرۍ مېچنې له ځي",
+    "translation": "When it is time to milk the cow, the disorganized woman starts grinding grain.",
+    "language": "Pashto",
+    "theme": "Eating Habits"
+  },
+  {
+    "id": 124,
+    "proverb": "چې ژوندی وي د مېړه وي، چې مړه شي بیا د پلار",
+    "translation": "While a woman is alive, she belongs to her husband; when she dies, she belongs to her father.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 125,
+    "proverb": "چې ښځې ته حال وایې، نو ډم ته یې ولې نه وایې",
+    "translation": "When you share a secret with a woman, why not just tell it to a drummer?",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 126,
+    "proverb": "چې خدای یې کوي او ښځې یې کوي هغه کېږي",
+    "translation": "What God wills happens, and what a woman sets her mind to happens.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 127,
+    "proverb": "چې کونډه شي، په منډه شي",
+    "translation": "When a woman becomes a widow, she is constantly on the run.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 128,
+    "proverb": "چې کوس یې کوږ وي، بخت یې خوږ وي",
+    "translation": "An ugly woman possesses the sweetest fortune.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 129,
+    "proverb": "چې مېښکه راشي، د غوږونو ځای ورک شي",
+    "translation": "When a buffalo enters the shed, the cows lose their place and status.",
+    "language": "Pashto",
+    "theme": "Animals"
+  },
+  {
+    "id": 130,
+    "proverb": "چې اوې خندل، نو پکې ده / جو हंस गए، وہ پھنس گئے",
+    "translation": "When she smiles, she is caught.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 131,
+    "proverb": "چې په خاوند درنه وي، په ټول کلي درنه وي، او چې په خاوند سپکه وي، په ټول کلي سپکه وي",
+    "translation": "A woman's social status is relative to her husband's treatment of her.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 132,
+    "proverb": "چې روټۍ کمه شي کور واله ګرموه، چې سالن کم شي مېلمه ګرموه",
+    "translation": "When bread runs short, blame the wife; when broth runs short, blame the guest.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 133,
+    "proverb": "چې څومره ټېټه وي، دومره پلېته وي",
+    "translation": "The shorter the woman, the more wicked she is.",
+    "language": "Pashto",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 134,
+    "proverb": "چې څومره یې زامن وي، دومره قدرمن وي",
+    "translation": "The more sons a person has, the greater their social status and respect.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 135,
+    "proverb": "چې یوه وي ډېره ښه وي، چې دوه شي سنسانې شي، چې درې شي په خندق سره سواره شي",
+    "translation": "One woman in a house is good; two fight like crocodiles; three ride the rooftops in chaos.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 136,
+    "proverb": "د ادې واک تر کټوې پورې دی",
+    "translation": "A mother's authority is limited to the cooking pot.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 137,
+    "proverb": "د باچا ورور نه ملنګ مېړه ښه وي",
+    "translation": "A beggar husband is better for a woman than living with a brother who is a king.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 138,
+    "proverb": "د ډیله سړي کور کې مېلمه مشر وي",
+    "translation": "In a hen-pecked man's house, a guest acts as the host.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 139,
+    "proverb": "د نړۍ ټولونه غټ دروغ دا دی چې درې ښځې په خاموشۍ ناستې وي",
+    "translation": "The biggest lie in the world is that three women sat together quietly.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 140,
+    "proverb": "د دوو / لسو روپیو ناوې خو به په کټ کې متیازې کوي",
+    "translation": "A cheap ten-rupee bride will end up wetting the wedding bed.",
+    "language": "Pashto",
+    "theme": "Marriage"
+  },
+  {
+    "id": 141,
+    "proverb": "د غرو په ټېګه خوږ شو، د کور مېچنه یې ماته کړه",
+    "translation": "Hurt by a rock on the mountain, he came home to break the grinding stone.",
+    "language": "Pashto",
+    "theme": null
+  },
+  {
+    "id": 142,
+    "proverb": "د انسان خوشبختي او نېكبختي د هغه ښځې سره اړې لګي",
+    "translation": "A man's good or bad fortune depends on his wife.",
+    "language": "Pashto",
+    "theme": "Marriage"
+  },
+  {
+    "id": 143,
+    "proverb": "هلکان او جينکۍ چې يو ځای لوبې کوي نو ښکر لکه به یې اوشي",
+    "translation": "A boy playing with girls grows horns; a girl playing with boys grows a tail.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 144,
+    "proverb": "د جينۍ چې وېښته تور وي، یا لور وي یا انګور وي، چې وېښته یې سپين وي، یا خواښې شي یا مور وي",
+    "translation": "Black hair marks a daughter or daughter-in-law; grey hair marks a mother or mother-in-law.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 145,
+    "proverb": "د کم فصل چې وړو نه وي، هغه ته مال ورګډېږي",
+    "translation": "A field without a fence is vulnerable to wandering livestock.",
+    "language": "Pashto",
+    "theme": "Animals"
+  },
+  {
+    "id": 146,
+    "proverb": "د ښځې سیوری به بل سړي په سر وي",
+    "translation": "A girl's shadow ultimately falls on another man's head.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 147,
+    "proverb": "د ښځې شل ګزه ژبه وي",
+    "translation": "A woman's tongue measures twenty meters.",
+    "language": "Pashto",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 148,
+    "proverb": "د ښځې سوچ او د ژمي باد ژر بدلېږي",
+    "translation": "A woman's mind changes as quickly as winter wind.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 149,
+    "proverb": "د ښځې وېښته اوږده دي، خو ژبه یې د هغې نه هم اوږده ده",
+    "translation": "A woman's hair is long, but her tongue is even longer.",
+    "language": "Pashto",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 150,
+    "proverb": "د ښځو اوره، منه یې مه",
+    "translation": "Listen to women, but do not obey them.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 151,
+    "proverb": "د ښځو د یو وېښته / کمڅي لاندې سل مکرونه وي",
+    "translation": "Beneath every single hair of a woman lie a hundred trickeries.",
+    "language": "Pashto",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 152,
+    "proverb": "د ښځو کلي نه وي",
+    "translation": "Women have no native village of their own.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 153,
+    "proverb": "د ښځو کار تل خراب وي",
+    "translation": "A woman's work is always flawed.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 154,
+    "proverb": "د ښځو خبره په یو غوږ اوره، په بل یې غورځوه",
+    "translation": "Listen to a woman's words through one ear and throw them out the other.",
+    "language": "Pashto",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 155,
+    "proverb": "د ښځو خبرو نه شر جوړېږي",
+    "translation": "Women's talk breeds conflicts and strife.",
+    "language": "Pashto",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 156,
+    "proverb": "د ښځو خوله سوري وي",
+    "translation": "Women's mouths have no locks.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 157,
+    "proverb": "د ښځو نظر د کلي نه بهر نه لګېږي",
+    "translation": "A woman's vision does not extend beyond the edge of the village.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 158,
+    "proverb": "د ښځو سره چې څومره زیاتې خبرې کوې، دومره به دې د سترګو سړوالی کمېږي",
+    "translation": "The more you engage women in conversation, the more authority you lose over them.",
+    "language": "Pashto",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 159,
+    "proverb": "د ښځو شرم په ننواتو نه بېرته کېږي",
+    "translation": "A loss of female honor cannot be restored through apologies or reparations.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 160,
+    "proverb": "د ښځو زیارت نه وي",
+    "translation": "There are no shrines dedicated to female saints.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 161,
+    "proverb": "د خوار / عاجز سړي عورت، د ټول کلي ورېندار وي",
+    "translation": "A poor man's wife is the sister-in-law of the whole village.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 162,
+    "proverb": "د ښه خاوند نه نیمه کونا پټه، د بد خاوند نه ټوله کونا پټه",
+    "translation": "From a good husband hide half your secrets; from a bad husband hide them all.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 163,
+    "proverb": "د خواښې د انګور لوند سر بد اېسي",
+    "translation": "A mother-in-law dislikes seeing the wet hair of her daughter-in-law.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 164,
+    "proverb": "د خواښې او د انګور د شپې او د پېشو ده",
+    "translation": "A mother-in-law and daughter-in-law are like a dog and a cat.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 165,
+    "proverb": "د کومې پېغلې چې صفت وکړې هغه متیزه تښتي",
+    "translation": "Praise a maiden too much and she will elope.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 166,
+    "proverb": "د کور خبره بهر مه کوه او د بهر خبره کور ته مه راوړه",
+    "translation": "Keep household matters inside and external matters outside.",
+    "language": "Pashto",
+    "theme": "Property & Wealth"
+  },
+  {
+    "id": 167,
+    "proverb": "د کونډې زوی د کونډې مېړه وي",
+    "translation": "A widow's son acts as her protector and husband figure.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 168,
+    "proverb": "د لوڼو پلار تل ستړی وي",
+    "translation": "A father of daughters is never at peace.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 169,
+    "proverb": "د ناوې خاموشي د ناوې رضا وي",
+    "translation": "A bride's silence indicates her consent.",
+    "language": "Pashto",
+    "theme": "Marriage"
+  },
+  {
+    "id": 170,
+    "proverb": "د پېړۍ نه سوکه ولوېده، خواښې ته یې بهانه ترلاسه شوه",
+    "translation": "The daughter-in-law dropped a bit of dough, giving the mother-in-law a reason to fight.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 171,
+    "proverb": "د پلار د کور مې مېلمنه کړه خو کوربنه مې مه کړه",
+    "translation": "Let me be a guest in my father's home, not its permanent host.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 172,
+    "proverb": "د سړي عزت د ښځې د پښو تر منځ دی",
+    "translation": "A man's honor resides between the legs of his woman.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 173,
+    "proverb": "د سړي پته د ښځې نه معلومېږي",
+    "translation": "A man's character is judged by his wife's conduct and home management.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 174,
+    "proverb": "د سړي کار ته ګوره، غټ وړوکی یې څه کوې",
+    "translation": "Look at a man's deeds, not his physical height or stature.",
+    "language": "Pashto",
+    "theme": "Authority"
+  },
+  {
+    "id": 175,
+    "proverb": "د شپې ټولې ښځې یو شان وي",
+    "translation": "In the dark of night, all women are alike.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 176,
+    "proverb": "د سیالۍ هر کار اسان دی خو زوی زېږول ګران دی",
+    "translation": "One can compete in anything except in bearing a male child.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 177,
+    "proverb": "د سپېرې ښځې سل کاله عمر وي",
+    "translation": "A shrewish woman lives for a hundred years.",
+    "language": "Pashto",
+    "theme": "Age"
+  },
+  {
+    "id": 178,
+    "proverb": "د یوې پښتنې ښځې عقل د نهو نایانو او جولګانو برابر دی",
+    "translation": "The intellect of one Pashtun man equals nine Pashtun women, and one Pashtun woman equals nine non-Pashtuns.",
+    "language": "Pashto",
+    "theme": "Intelligence"
+  },
+  {
+    "id": 179,
+    "proverb": "د زامنو نوم خوږ دی خو چا ورته څه وکړل",
+    "translation": "Sweet is the name of sons, yet they rarely live up to every expectation.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 180,
+    "proverb": "چې د ژرندې لاندې پُل یې ګرځي، پوه شه چې کار خراب دی",
+    "translation": "When the lower grinding stone moves on its own, know something is wrong.",
+    "language": "Pashto",
+    "theme": "Idle & Useless"
+  },
+  {
+    "id": 181,
+    "proverb": "د ځمکې نه او پښتنې ښځې نه ږغ نه راخېژي",
+    "translation": "Neither the earth nor a Pashtun woman should raise their voice.",
+    "language": "Pashto",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 182,
+    "proverb": "دنګه ښځه کم عقل وي",
+    "translation": "The taller the woman, the lesser her intellect.",
+    "language": "Pashto",
+    "theme": "Intelligence"
+  },
+  {
+    "id": 183,
+    "proverb": "دویم خاوند د زنګون ټوټه ده",
+    "translation": "A second husband is like a knee patch.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 184,
+    "proverb": "دوې ښځې چې کښېني د درېیمې وېښته یې په لاس کې وي",
+    "translation": "When two women sit together, they hold the hair of a third woman.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 185,
+    "proverb": "هزاره ته روټۍ ګرانه ده او فدې ارزانه ده",
+    "translation": "In Hazara, bread is expensive and women are cheap.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 186,
+    "proverb": "جینکۍ پلید بوټي دي، ژر ژر لویېږي",
+    "translation": "Girls are like weeds: they grow everywhere and quickly.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 187,
+    "proverb": "جېنۍ چې د زانګو نه کوزېږي، واده ورته کوئ",
+    "translation": "As soon as a girl steps down from her swing, marry her off.",
+    "language": "Pashto",
+    "theme": "Marriage"
+  },
+  {
+    "id": 188,
+    "proverb": "که چېرې د الله نه علاوه بل چا ته سجده کېدله، نو ښځو به خاوند ته کوله",
+    "translation": "If prostration to anyone besides God were allowed, women would prostrate to their husbands.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 189,
+    "proverb": "که ښځې ښې وای نو چیرته به پکې پیامبر راغلی و",
+    "translation": "If women were fit for supreme leadership, there would have been female prophets.",
+    "language": "Pashto",
+    "theme": "Authority"
+  },
+  {
+    "id": 190,
+    "proverb": "که مور خره وي، اولاد ته ښه وي",
+    "translation": "Though the mother may be a donkey, she remains precious to her children.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 191,
+    "proverb": "که شپه تیاره ده، خور لور ښکاره ده",
+    "translation": "Though the night is dark, sisters and daughters remain distinct.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 192,
+    "proverb": "که ورور ښه وای خدای به ځان له پیدا کړی و",
+    "translation": "If a brother were entirely good, God would have created one for Himself.",
+    "language": "Pashto",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 193,
+    "proverb": "کوم کور کې چې لور اوشي هغه کې اووه نور بهېږي",
+    "translation": "The birth of a daughter brings seven divine blessings to the home.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 194,
+    "proverb": "کوم سړی چې کور نه شي سنبالولی هغه د کلي مشري نه شي کولای",
+    "translation": "A man who cannot control his household cannot lead his village.",
+    "language": "Pashto",
+    "theme": "Authority"
+  },
+  {
+    "id": 195,
+    "proverb": "خر په مال کې نه دی، زوم په رشتو کې نه دی",
+    "translation": "A donkey is no true livestock; a son-in-law is no true relative.",
+    "language": "Pashto",
+    "theme": "Animals"
+  },
+  {
+    "id": 196,
+    "proverb": "خاوند د ښځې د سر سیوری دی",
+    "translation": "The husband is a protective shadow over the wife's head.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 197,
+    "proverb": "خاوند کول اسان دي خو چوله اچول ګران دي",
+    "translation": "Marrying a man is easy; maintaining a home is difficult.",
+    "language": "Pashto",
+    "theme": "Marriage"
+  },
+  {
+    "id": 198,
+    "proverb": "ښځه د فساد ریښه ده",
+    "translation": "Woman is the root of all evil and strife.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 199,
+    "proverb": "ښځه د پښو چپلۍ ده، که نه وي خوښه بدلول کړه",
+    "translation": "A woman is like footwear; if you dislike her, change her.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 200,
+    "proverb": "ښځه د شیطان نه اووه قدمه مخکې ځي",
+    "translation": "A woman walks seven steps ahead of the devil.",
+    "language": "Pashto",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 201,
+    "proverb": "ښځه هیڅ کله هم وزګاره نه وي",
+    "translation": "A woman's domestic work is never done.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 202,
+    "proverb": "ښځه لور لویل بل له خواري کول دي",
+    "translation": "Raising a daughter is working hard for another man.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 203,
+    "proverb": "ښځه ناقصه قوم دی",
+    "translation": "Women are an incomplete species.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 204,
+    "proverb": "ښځه نه تخت غواړي نه بخت غواړي، د یو شی سخت غواړي",
+    "translation": "A woman desires neither crown nor fortune, but physical fulfillment.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 205,
+    "proverb": "ښځه او سړی د ژوند دوه پايې دي",
+    "translation": "Man and woman are the two wheels of the vehicle of life.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 206,
+    "proverb": "ښځه او شیشه تل په خطر کې وي",
+    "translation": "A woman and a glass object are always in danger.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 207,
+    "proverb": "ښځه په های پیدا کېږي، په های وادېږي، په های مړه کېږي",
+    "translation": "A woman is born in sorrow, married in sorrow, and dies in sorrow.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 208,
+    "proverb": "ښځه په خېټه ډکه ساته، او په څپېړه یې لاندې ساته",
+    "translation": "Keep a woman's stomach full and her face under your hand/slap.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 209,
+    "proverb": "ښځه په نکاح ده، ځمکه په انتقال",
+    "translation": "A woman's possession is confirmed by marriage; land by transfer papers.",
+    "language": "Pashto",
+    "theme": "Marriage"
+  },
+  {
+    "id": 210,
+    "proverb": "ښځې ډېرې خبرې کوي ځکه چې د دوی دوه خولې وي، سړي ډېر سوچ کوي ځکه چې د دوی دوه سرونه وي",
+    "translation": "Women talk more having two mouths; men think more having two heads.",
+    "language": "Pashto",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 211,
+    "proverb": "ښځې د خلق حجرې ته نه بیایي",
+    "translation": "Women should not be brought into public guest houses (Hujras).",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 212,
+    "proverb": "ښځې ته دروغ ویلو کې ګناه نشته",
+    "translation": "Telling lies to one's wife carries no sin.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 213,
+    "proverb": "ښځو بابا ادم له هم دوکه ورکړې وه",
+    "translation": "Women even managed to deceive Adam.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 214,
+    "proverb": "خور لور د امیر سړي کوه، او غوا د غریب سړي کوه",
+    "translation": "Marry the daughter of a rich man; buy the cow of a poor man.",
+    "language": "Pashto",
+    "theme": "Property & Wealth"
+  },
+  {
+    "id": 215,
+    "proverb": "خور لور د پردي ډېران خځل ده",
+    "translation": "A daughter is trash on someone else's dunghill.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 216,
+    "proverb": "خرې ته چې \"لیلا\" ووایې بیا واښه نه خوري",
+    "translation": "Call a donkey \"Laila\" and she refuses to eat grass.",
+    "language": "Pashto",
+    "theme": "Animals"
+  },
+  {
+    "id": 217,
+    "proverb": "کونا بربنډه بنګړي په لاس",
+    "translation": "Bare buttocks, yet bangles adorning her wrists.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 218,
+    "proverb": "کوس مې کوس لاړو، خیر مې خیر ونشو",
+    "translation": "Giving vagina brought no spiritual reward.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 219,
+    "proverb": "کوس ته ګوره په خوړ اودس ته ګوره",
+    "translation": "Look at a woman attempting ablution by the river stream!",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 220,
+    "proverb": "لور چې کله برخه وغواړي، هغه لور نه پاتې کېږي",
+    "translation": "When a daughter demands her inheritance, she forfeits her status as a daughter.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 221,
+    "proverb": "لور د بل کور ده",
+    "translation": "A daughter belongs to someone else's house.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 222,
+    "proverb": "لور د مور د لېچې وزرې دي",
+    "translation": "A daughter is her mother's helping hands and wings.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 223,
+    "proverb": "لور د شرم ټوکرۍ ده، د بل اوږو یې واچوه",
+    "translation": "A daughter is a basket of shame; hand her over to another as soon as possible.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 224,
+    "proverb": "لور خو د ښو غمونه یې ډېر وي",
+    "translation": "A daughter is cherished, yet she brings endless worries.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 225,
+    "proverb": "لور یې غلا، مور یې ملا",
+    "translation": "The daughter steals; the mother acts as master mind.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 226,
+    "proverb": "مال مې د سر نه زار، سر مې د ناموسه",
+    "translation": "Sacrifice wealth for life; sacrifice life for honor and women.",
+    "language": "Pashto",
+    "theme": "Property & Wealth"
+  },
+  {
+    "id": 227,
+    "proverb": "نر چې واده وکړي هله سړی شي",
+    "translation": "A male becomes a complete man only upon marriage.",
+    "language": "Pashto",
+    "theme": "Marriage"
+  },
+  {
+    "id": 228,
+    "proverb": "نر زوی د ښځې موګی دی",
+    "translation": "A male son is the peg to which a woman anchors her home.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 229,
+    "proverb": "نازولې لور بده انګور وي",
+    "translation": "An overly pampered daughter makes a poor daughter-in-law.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 230,
+    "proverb": "نور د غرو سر وهي، نامرده خپل ټبر وهي",
+    "translation": "A brave man conquers mountain peaks; a coward beats his wife.",
+    "language": "Pashto",
+    "theme": "Authority"
+  },
+  {
+    "id": 231,
+    "proverb": "په غو مې غی، په کوس پسې مې خاندې",
+    "translation": "You use me sexually, yet you laugh at my body!",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 232,
+    "proverb": "په کور کې یو لیونی ښه وي",
+    "translation": "Every household needs at least one fierce/mad man.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 233,
+    "proverb": "په لور هم غم تود وي، هم ښادي",
+    "translation": "A daughter shares deeply in both her parents' grief and joy.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 234,
+    "proverb": "په ما یې ځکه زور دی چې د شپږ زامنو مور ده",
+    "translation": "She holds power over me because she is the mother of six sons.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 235,
+    "proverb": "په یوه ښځه کې خو سړی کونډ وي",
+    "translation": "A man with only one wife is practically a widower.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 236,
+    "proverb": "په یوې غلا سړی غل نه کېږي",
+    "translation": "A single theft does not define a man as a permanent thief.",
+    "language": "Pashto",
+    "theme": null
+  },
+  {
+    "id": 237,
+    "proverb": "پروا مې درته نشته که ته تېر شې په لنډن، اوس مې ژنړي دي زامن",
+    "translation": "Go beyond London for all I care; my sons are grown now.",
+    "language": "Pashto",
+    "theme": "Age"
+  },
+  {
+    "id": 238,
+    "proverb": "پېشو هم د کوس مېرممن شوه",
+    "translation": "Even the cat claims ownership of a vagina!",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 239,
+    "proverb": "پښتنو کور کې سپی نه وي، لیونی نه وي، هغه کور نه دی",
+    "translation": "A Pashtun home without a watchdog and a fierce man is no real home.",
+    "language": "Pashto",
+    "theme": "Animals"
+  },
+  {
+    "id": 240,
+    "proverb": "پښتون ته د زوم کره خوب نه ورځي",
+    "translation": "A Pashtun cannot sleep soundly in his son-in-law's house.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 241,
+    "proverb": "رنګ د ښځو ورک شه، بېخ اوباسي د سړو",
+    "translation": "May God protect men from the wiles of women.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 242,
+    "proverb": "سړی چې د شپېتو شي، د وېشتو شي",
+    "translation": "When a man turns sixty, he is fit to be shot.",
+    "language": "Pashto",
+    "theme": "Age"
+  },
+  {
+    "id": 243,
+    "proverb": "سړی که کشر وي، د کور مشر وي",
+    "translation": "Even a young man is the head of his household.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 244,
+    "proverb": "سړي کور جوړوي، ښځې یې ابادوي",
+    "translation": "Men build the house; women turn it into a home.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 245,
+    "proverb": "سړو ته خدای عزت ورکړی دی",
+    "translation": "God has granted men natural authority over women.",
+    "language": "Pashto",
+    "theme": "Authority"
+  },
+  {
+    "id": 246,
+    "proverb": "شاملات پېغله ښځه ده، چې د سر لاره د هغه شوه",
+    "translation": "Communal land is like a virgin girl; whoever tills it first owns it.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 247,
+    "proverb": "شرع کې روا دي، خو د خلقو نه په غلا دي",
+    "translation": "Though lawful in religion, it should remain hidden from public view.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 248,
+    "proverb": "شیطان چې کم کار په خپله نه شي کولای، هلته بوډۍ ښځه ولېږي",
+    "translation": "Where the devil cannot go himself, he sends an old woman.",
+    "language": "Pashto",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 249,
+    "proverb": "شکور دې ډک وي، که د پیاڅو وي که انګانو",
+    "translation": "Keep the bread basket full, whether with barley or wheat.",
+    "language": "Pashto",
+    "theme": "Eating Habits"
+  },
+  {
+    "id": 250,
+    "proverb": "شتمنده ښځه سړي نه غلام جوړوي",
+    "translation": "He who marries a wealthy woman turns himself into her servant.",
+    "language": "Pashto",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 251,
+    "proverb": "څوک چې د بل مور ته کنځلې کوي، د خپلې مور کنځلې به واوري",
+    "translation": "He who curses another's mother invites curses upon his own.",
+    "language": "Pashto",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 252,
+    "proverb": "تنګو مېوه نه ده، سندو رښته نه ده",
+    "translation": "Peaches are no real fruit; a wife's sister's husband is no real relative.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 253,
+    "proverb": "طور د وي خو څلور د وي",
+    "translation": "Let there be four sons, even if they are plain.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 254,
+    "proverb": "وړنګ سړی خدای پاک په لوڼو سموي",
+    "translation": "When God wants to humble a proud man, He grants him daughters.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 255,
+    "proverb": "ورځې دوه دي د خوشالۍ، اول چې زوی یې زېږي بل چې راوړي ناوکۍ",
+    "translation": "A mother has two days of pure joy: bearing a son and bringing home his bride.",
+    "language": "Pashto",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 256,
+    "proverb": "یو به دې پېسو ساتي، یو به دې جرګو ساتي، یو به دې توپکو طماچو ساتي",
+    "translation": "A family needs three men: one to earn, one for councils, and one for defense.",
+    "language": "Pashto",
+    "theme": "Authority"
+  },
+  {
+    "id": 257,
+    "proverb": "زما چې څوک سندو کېږي هغه ته زه سندا وایم",
+    "translation": "I view my wife's sister's husband as no better than a farm bull.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 258,
+    "proverb": "زما هم خوله کې ژبه شته خو په ژبه مې وېښته دی",
+    "translation": "I have a tongue in my mouth, but cotton covers it.",
+    "language": "Pashto",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 259,
+    "proverb": "زامنو د کور وېشي، لوڼه غمونه",
+    "translation": "Sons divide the estate; daughters divide the grief.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 260,
+    "proverb": "ځان چې خاورې کړي، نو رڼا ورځ به مومي",
+    "translation": "Humble yourself to dust today to see a bright tomorrow.",
+    "language": "Pashto",
+    "theme": "Idle & Useless"
+  },
+  {
+    "id": 261,
+    "proverb": "ژبه او اوښکې د ښځې توره ده",
+    "translation": "A woman's primary weapons are her tongue and her tears.",
+    "language": "Pashto",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 262,
+    "proverb": "زوم د لستوڼي مار دی",
+    "translation": "A son-in-law is a snake hidden up your sleeve.",
+    "language": "Pashto",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 263,
+    "proverb": "زوی د پلار اوږې دي",
+    "translation": "A son acts as his father's supporting shoulders.",
+    "language": "Pashto",
+    "theme": "Children"
+  },
+  {
+    "id": 264,
+    "proverb": "ځوان د خسو هم ښه وي",
+    "translation": "A young man is valuable even if made of straw.",
+    "language": "Pashto",
+    "theme": "Intelligence"
+  },
+  {
+    "id": 265,
+    "proverb": "বউয়ের চলন-ফেরন কেমন? / না, তুর্কী ঘোড়া যেমন; বউয়ের গলার স্বর কেমন? / না, শালিক কাঁকায় যেমন",
+    "translation": "How is the wife's behavior? Like a Turkish horse. How is the wife's voice? Like a screaming myna/shrike.",
+    "language": "Bengali",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 266,
+    "proverb": "ননদিনী রায় বাঘিনী / দাঁড়িয়ে আছে কাল সাপিনী",
+    "translation": "A sister-in-law is as scary as a tigress, standing like a deadly cobra.",
+    "language": "Bengali",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 267,
+    "proverb": "কাকিলা বধু ছেলে ধরতে জানে না",
+    "translation": "A gawky/cuckoo bride does not know how to hold or care for her child.",
+    "language": "Bengali",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 268,
+    "proverb": "পয়সা নাই দুই আনা, বউ চায় সেয়ানা",
+    "translation": "He doesn't have two pennies, yet he wants a clever and beautiful wife.",
+    "language": "Bengali",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 269,
+    "proverb": "বউ উঠতে ঠাঁই পায় না, উঠান জোড়া দাসী",
+    "translation": "The wife finds no room in her husband's home, yet he fills the courtyard with concubines.",
+    "language": "Bengali",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 270,
+    "proverb": "কালা কাজলের মাটি, তার লাইগ্যা ছয় মাস হাঁটি / ধলা ধুতরা ফুল, তার নাই এক পয়সা মূল",
+    "translation": "For dark kohl soil, one would walk for six months; a white datura flower is not worth a single penny.",
+    "language": "Bengali",
+    "theme": null
+  },
+  {
+    "id": 271,
+    "proverb": "অস্থানে তুলসী, অপাত্রে রূপসী",
+    "translation": "Holy basil growing in an improper place; a beautiful girl wedded to an unworthy vessel.",
+    "language": "Bengali",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 272,
+    "proverb": "নদীর জল ঘোলাও ভালো, জাতের মেয়ে কালোও ভালো",
+    "translation": "Turbid river water is still good; a dark-complexioned girl is good if she comes from a noble lineage.",
+    "language": "Bengali",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 273,
+    "proverb": "থাকে যদি চূড়ো বাঁশী, মিলবে রাধা হেন কত দাসী",
+    "translation": "If one possesses the crown and flute, many servants like Radha will readily be found.",
+    "language": "Bengali",
+    "theme": "Authority"
+  },
+  {
+    "id": 274,
+    "proverb": "খানকি, তার আবার মান কী!",
+    "translation": "A prostitute has no honor or dignity to speak of.",
+    "language": "Bengali",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 275,
+    "proverb": "ঘৃতকুম্ভ সমা নারী তপ্তাঙ্গারসমঃ পুমান। তস্মাৎ ঘৃতঞ্চ বহ্নিঞ্চ নৈকত্র স্থাপয়েদ্বুধঃ ॥",
+    "translation": "Woman is like a pot of clarified butter; man is like burning ember. A wise man never keeps them together.",
+    "language": "Bengali",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 276,
+    "proverb": "কনের বাপ বসে বসে চোখের জলে ভাসে, বরের বাপ বসে আছে পাঁচশো টাকার আশে",
+    "translation": "The bride's father sits in tears, while the groom's father waits eagerly to count five hundred rupees.",
+    "language": "Bengali",
+    "theme": "Marriage"
+  },
+  {
+    "id": 277,
+    "proverb": "কনের মা কাঁদে আর টাকার পুটুলা বাঁধে",
+    "translation": "The bride's mother weeps while tying up the money bag for dowry.",
+    "language": "Bengali",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 278,
+    "proverb": "কানা পুতে পোষে, রাজার ঝিয়ে শোষে",
+    "translation": "Even a blind son supports his mother, but even a king's daughter exploits her father.",
+    "language": "Bengali",
+    "theme": "Children"
+  },
+  {
+    "id": 279,
+    "proverb": "ছেলে বিয়ালে স্বর্গবাস, মেয়ে বিয়ালে নরকবাস",
+    "translation": "Giving birth to a son feels like dwelling in heaven; giving birth to a daughter feels like dwelling in hell.",
+    "language": "Bengali",
+    "theme": "Children"
+  },
+  {
+    "id": 280,
+    "proverb": "অপুত্রকং গৃহং শূন্যং",
+    "translation": "A household is completely empty and desolate without a son.",
+    "language": "Bengali",
+    "theme": "Children"
+  },
+  {
+    "id": 281,
+    "proverb": "অভাগার গরু মরে, ভাগ্যবানের বউ মরে",
+    "translation": "An unlucky man loses his cattle; a fortunate man loses his wife.",
+    "language": "Bengali",
+    "theme": "Marriage"
+  },
+  {
+    "id": 282,
+    "proverb": "কথায় কথা বারে, জলে বারে ধান, বাপের বাড়ি থাকলে কন্যা বারে অপমান",
+    "translation": "Arguments breed arguments, water grows paddy, and an unmarried daughter staying at her father's home brings insult.",
+    "language": "Bengali",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 283,
+    "proverb": "যার ঝি তার পোড়া / পাড়াপড়শীর কান খাড়া",
+    "translation": "A daughter's tragedy concerns her father, but neighbors perk up their ears to gossip.",
+    "language": "Bengali",
+    "theme": "Children"
+  },
+  {
+    "id": 284,
+    "proverb": "ছেলের মুত কড়া / মেয়ের গলায় দড়া",
+    "translation": "A son's urine generates wealth, while a daughter should hang herself with a rope.",
+    "language": "Bengali",
+    "theme": "Children"
+  },
+  {
+    "id": 285,
+    "proverb": "পতি বিনা গতি নাই",
+    "translation": "A woman has no direction, purpose, or refuge without a husband.",
+    "language": "Bengali",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 286,
+    "proverb": "মায়ে রাঁধে যেমন তেমন, বোনে রাঁধে পানি, ও অভাগী রাঁধে যেন চিনি পরমান্নি",
+    "translation": "Mother's cooking is ordinary, sister cooks like water, but the pitiable wife's cooking is sweet like payesh.",
+    "language": "Bengali",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 287,
+    "proverb": "নিজের ভাই ভাত পায় না, শালীর তরে মণ্ডা",
+    "translation": "His own brother goes without rice, yet he buys sweets for his wife's sister.",
+    "language": "Bengali",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 288,
+    "proverb": "গাইচ্ছা মাগী গাছ বায়, নদী মাগী তামুক খায়",
+    "translation": "Women who climb trees or smoke tobacco by the river are prostitutes.",
+    "language": "Bengali",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 289,
+    "proverb": "অবলার মুখই বল",
+    "translation": "A weak woman's only weapon is her tongue.",
+    "language": "Bengali",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 290,
+    "proverb": "অনেক কালের ছিল পাপ, ছেলে হলো সতীনরে বাপ",
+    "translation": "It was the result of an ancient sin that my son became the father-in-law of my co-wife.",
+    "language": "Bengali",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 291,
+    "proverb": "এক বোরের স্ত্রী হেলাদোলা / দোজবরের স্ত্রী গলার মালা",
+    "translation": "The first wife of a man is neglected, but the second wife is cherished like a necklace.",
+    "language": "Bengali",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 292,
+    "proverb": "আহাম্মক আত; যে মাগকে পাঠায় হাট",
+    "translation": "He is a fool of the highest order who sends his wife to the public market.",
+    "language": "Bengali",
+    "theme": "Intelligence"
+  },
+  {
+    "id": 293,
+    "proverb": "ছেলে শিখবে লেখাপড়া, মেয়ে শিখবে রান্না করা",
+    "translation": "Boys should pursue education; girls should learn cooking and household chores.",
+    "language": "Bengali",
+    "theme": "Children"
+  },
+  {
+    "id": 294,
+    "proverb": "রাঁধা বাড়াবো নারী, পুরুষের আগ খায় / ভরা কলসীর জল তার তরাসে শুকায়",
+    "translation": "A woman who eats before the men of the house will have a fruitless and dried-up life.",
+    "language": "Bengali",
+    "theme": "Eating Habits"
+  },
+  {
+    "id": 295,
+    "proverb": "যে রাঁধে, সে চুলও বাঁধে",
+    "translation": "She who cooks also manages to braid her hair.",
+    "language": "Bengali",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 296,
+    "proverb": "পতির পায়ে থাকে মতি, তবে তারে বলে সতী",
+    "translation": "She whose devotion remains at her husband's feet is called a chaste and true woman.",
+    "language": "Bengali",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 297,
+    "proverb": "লোহা জব্দ কামারবাড়ি, মেয়ে জব্দ শ্বশুরবাড়ি",
+    "translation": "Iron is tamed at the blacksmith's forge; a woman is tamed at her in-laws' house.",
+    "language": "Bengali",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 298,
+    "proverb": "নারীর বল চোখের জল",
+    "translation": "A woman's strength lies only in her tears.",
+    "language": "Bengali",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 299,
+    "proverb": "দাদা কি বউ মারে / গামছার বাড়া মেরে তামসা করে",
+    "translation": "Does brother beat his wife? He merely strikes her with a towel for fun!",
+    "language": "Bengali",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 300,
+    "proverb": "একা ঘরের একা বউ খেতে বড় সুখ / মারতে এলে ধরতে নাই তাই বড় দুঃখ",
+    "translation": "Living as the sole wife in a separate home is joyful, but when the husband beats her, there is no one to stop him.",
+    "language": "Bengali",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 301,
+    "proverb": "গৃহ স্থির আগে কর, গৃহিনী স্থির তার পর",
+    "translation": "Secure and stable your house first, then subdue your wife.",
+    "language": "Bengali",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 302,
+    "proverb": "অভাবে স্বভাব নষ্ট, মুখ নষ্ট বরণে / ঝড়তি কৃষতে নষ্ট, বউ নষ্ট মারণে",
+    "translation": "Poverty ruins character, pimples ruin the face, storms ruin crops, and beating ruins a wife (makes her defiant).",
+    "language": "Bengali",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 303,
+    "proverb": "পিতা রক্ষতি কৌুমারে ভর্তা রক্ষতি যৌবনে। রক্ষন্তি স্থবিরে পুত্রান ন স্ত্রী স্বাতন্ত্র্যমহতি ॥",
+    "translation": "Father protects her in childhood, husband protects her in youth, sons protect her in old age; a woman is never fit for independence.",
+    "language": "Bengali",
+    "theme": "Children"
+  },
+  {
+    "id": 304,
+    "proverb": "পতিহারা নারী, মাঝিহারা তরী",
+    "translation": "A husbandless woman is like a boat without a boatman.",
+    "language": "Bengali",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 305,
+    "proverb": "নাও, ঘোড়া, নারী; যে চড়বে তার ই",
+    "translation": "Boats, horses, and women belong entirely to whoever rides/controls them.",
+    "language": "Bengali",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 306,
+    "proverb": "ঝি কে মেরে বউ কে শেখানো",
+    "translation": "Beating the maidservant to discipline and teach the daughter-in-law.",
+    "language": "Bengali",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 307,
+    "proverb": "ঝি জব্দ কিলে, বউ জব্দ শিলে; পাড়া-পড়শী জব্দ চোখে আঙ্গুল দিলে",
+    "translation": "Maidservants are subdued with fists, wives with grinding stones, and neighbors by pointing out their flaws directly.",
+    "language": "Bengali",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 308,
+    "proverb": "বউ নয় রে, বউ নয় ঘরোল ডাকিনী / দিনের বেলায় মানুষের ছা, রাত হলে বাঘিনী",
+    "translation": "She is no wife, but a household witch; a human child by day, a tigress by night.",
+    "language": "Bengali",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 309,
+    "proverb": "بد کردار رچ جاندی اے، بد زبان نہیں رچدی",
+    "translation": "A woman of moral laxity can manage to survive in a marriage, but a foul-mouthed woman cannot.",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 310,
+    "proverb": "گلی پئی تے وسنوں گئی",
+    "translation": "A woman who indulges in neighborhood gossip forfeits her marital harmony.",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 312,
+    "proverb": "چپ چپِیتی کم سنوارے",
+    "translation": "A quiet, silent woman efficiently manages household tasks.",
+    "language": "Punjabi",
+    "theme": "Idle & Useless"
+  },
+  {
+    "id": 313,
+    "proverb": "جنھے لایا گلیں، اودھے نال ٹر چلی",
+    "translation": "She follows anyone who engages her in smooth talk.",
+    "language": "Punjabi",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 314,
+    "proverb": "منہ دی کولی گلاں پٹاوے",
+    "translation": "A soft-spoken woman invites flirting / flirts with others.",
+    "language": "Punjabi",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 315,
+    "proverb": "جے شوہ آکھے فٹے منہ، تاں میں جیواں",
+    "translation": "When my husband rebukes me, only then do I feel lively/reinvigorated.",
+    "language": "Punjabi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 316,
+    "proverb": "گلاں ولوں میں وڈی، کارتُوتاں وڈی جٹھانی",
+    "translation": "I am senior in verbal chatter, but my sister-in-law is senior in actual deeds.",
+    "language": "Punjabi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 318,
+    "proverb": "گلیں لگی تے اٹا کتیاں کھادا",
+    "translation": "She got absorbed in gossip while the dogs ate the flour.",
+    "language": "Punjabi",
+    "theme": "Eating Habits"
+  },
+  {
+    "id": 319,
+    "proverb": "مرض دا بولیا تے فجر دا گرجیا برتھا نہ جائے",
+    "translation": "A man's word and the early morning thunder never go to waste.",
+    "language": "Punjabi",
+    "theme": "Idle & Useless"
+  },
+  {
+    "id": 320,
+    "proverb": "مرض دی گل تے گڈی دا پہیا اگے نوں جاندے نے",
+    "translation": "A man's word and the wheels of a moving vehicle always move forward.",
+    "language": "Punjabi",
+    "theme": "Animals"
+  },
+  {
+    "id": 321,
+    "proverb": "منہ تے کہوے تاں مرد منو",
+    "translation": "Consider him a true man who speaks the truth face-to-face.",
+    "language": "Punjabi",
+    "theme": "Intelligence"
+  },
+  {
+    "id": 322,
+    "proverb": "قول ہارن جواناں دا کم نہیں",
+    "translation": "Backing out of one's word is not the trait of real men.",
+    "language": "Punjabi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 323,
+    "proverb": "جہرڑا رن دے آکھے لگے اوہ خراب تھیندا اے",
+    "translation": "He who follows the advice of his wife is destined to suffer.",
+    "language": "Punjabi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 324,
+    "proverb": "شکل چڑیلوں سی، مزاج پریوں کے",
+    "translation": "Looks like a witch, but puts on the temperament of a fairy.",
+    "language": "Urdu",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 325,
+    "proverb": "حسین بیوی اور سرحدی قلعہ لڑائی جھگڑے کی جڑ ہیں",
+    "translation": "A beautiful wife and a border fort are the root of all conflicts.",
+    "language": "Urdu",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 326,
+    "proverb": "جب ناچنے لگی تو گھونگھٹ کیسا",
+    "translation": "When one starts dancing in public, why wear a veil?",
+    "language": "Urdu",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 327,
+    "proverb": "عورت اور شراب انسان کے ہوش و حواس گم کر دیتے ہیں",
+    "translation": "Women and wine make a man lose his senses.",
+    "language": "Urdu",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 328,
+    "proverb": "جسے پیا چاہے وہی سہاگن",
+    "translation": "She whom the husband favors is the true wedded bride.",
+    "language": "Urdu",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 329,
+    "proverb": "چمئار کی جورو ٹوٹي جوتي",
+    "translation": "The cobbler's wife wears broken shoes.",
+    "language": "Urdu",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 330,
+    "proverb": "برارو لوڑی اسپرارو الوس",
+    "translation": "See the brother and marry his sister.",
+    "language": "Khowar",
+    "theme": "Marriage"
+  },
+  {
+    "id": 332,
+    "proverb": "کھونگیر دیاک ژاوَو سار ورنگوشٹی موش جم",
+    "translation": "An idle husband is better than a warrior son.",
+    "language": "Khowar",
+    "theme": "Authority"
+  },
+  {
+    "id": 333,
+    "proverb": "ویسوروتے دودور دی سور ٹوکھیر",
+    "translation": "Even a lizard may court a widow.",
+    "language": "Khowar",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 334,
+    "proverb": "موش بوکانتے ٹونگ چھانا ژاغا بویئے",
+    "translation": "A pearl leaf is enough space for a husband and wife.",
+    "language": "Khowar",
+    "theme": "Marriage"
+  },
+  {
+    "id": 335,
+    "proverb": "تا موش ما موش بول",
+    "translation": "Your husband and mine together create an army.",
+    "language": "Khowar",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 336,
+    "proverb": "خوش نو استاٰےدنیا نو اوشیا",
+    "translation": "The world cannot exist without a beloved.",
+    "language": "Khowar",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 337,
+    "proverb": "ژاوٗو اژیکو انوس زور",
+    "translation": "Stern is the birth of a son.",
+    "language": "Khowar",
+    "theme": "Children"
+  },
+  {
+    "id": 339,
+    "proverb": "ای ادینہ کی گوئے تان ژاٰوو خدایئ دوم",
+    "translation": "If there were only one Friday, I would gladly sacrifice my son.",
+    "language": "Khowar",
+    "theme": "Children"
+  },
+  {
+    "id": 340,
+    "proverb": "ژور دیتی ژاٗو کرینے",
+    "translation": "Give a daughter and obtain a son.",
+    "language": "Khowar",
+    "theme": "Children"
+  },
+  {
+    "id": 341,
+    "proverb": "نو استونیرو ژٰاو ژٰاو نو، نو کرینیرو خانہ زاد خانہ زاد نو",
+    "translation": "A son born without labor pain will be disobedient, and a servant bought free will be disloyal.",
+    "language": "Khowar",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 342,
+    "proverb": "شوم ژاوٗوتے کیا یراغ شوم ژوروتے کیا زیوور",
+    "translation": "No need to arm an unruly son, and no need to adorn an unruly daughter.",
+    "language": "Khowar",
+    "theme": "Children"
+  },
+  {
+    "id": 343,
+    "proverb": "ہوساک کیمیریو سار وفا نکی ڑینگاک دارو سار",
+    "translation": "Trust not in a giggling lady nor a quivering wood.",
+    "language": "Khowar",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 344,
+    "proverb": "روشت دنیو سار ڑینگاک دارو سار وا اوساک کیمیریو سار وفا نکی",
+    "translation": "Place no trust in a bright day, shaking wood, or a laughing woman.",
+    "language": "Khowar",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 345,
+    "proverb": "دورتیک رویو سار بیری نیسیرو گوردوغ جم",
+    "translation": "A traveling donkey is better than a homebound man.",
+    "language": "Khowar",
+    "theme": "Animals"
+  },
+  {
+    "id": 346,
+    "proverb": "ای اوشپوڑو سم غیچ نکی ای ژورو سوم",
+    "translation": "Neither a tumor nor a daughter has eyes.",
+    "language": "Khowar",
+    "theme": "Children"
+  },
+  {
+    "id": 348,
+    "proverb": "کیمیریو بیچو کوتیر",
+    "translation": "A woman is a dagger in the chest.",
+    "language": "Khowar",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 349,
+    "proverb": "عورتو شونین دیت سوګونو پھیرین",
+    "translation": "Win a woman's favor through flattery and a plant through ash fertilizer.",
+    "language": "Khowar",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 350,
+    "proverb": "ای روپیہ سوت استری",
+    "translation": "Seven wives for one single coin.",
+    "language": "Khowar",
+    "theme": "Marriage"
+  },
+  {
+    "id": 351,
+    "proverb": "ګون نیکیا وا مہ ژاوٗوت باردوخوتے بوک نو بوئے",
+    "translation": "Finding a wife for my son is as easy as finding a handle for an axe.",
+    "language": "Khowar",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 352,
+    "proverb": "ای ژور جوش جمار",
+    "translation": "One daughter attracts ten prospective sons-in-law.",
+    "language": "Khowar",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 353,
+    "proverb": "کوس چوست بوک بوےَ وا کوس ٹون چھونجیر",
+    "translation": "Some men are blessed with charming wives; others carry tightened slingshots.",
+    "language": "Khowar",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 354,
+    "proverb": "خورو بوک غیچا شیلی",
+    "translation": "Another man's wife looks beautiful in one's eyes.",
+    "language": "Khowar",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 356,
+    "proverb": "چھانی کی نیسایے بسیرو وایے کام بویے",
+    "translation": "When the kid is born, the mother goat's market value decreases.",
+    "language": "Khowar",
+    "theme": "Children"
+  },
+  {
+    "id": 357,
+    "proverb": "چستی بیر گلائی بیہچور",
+    "translation": "Beauty fades, but grievances persist.",
+    "language": "Khowar",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 358,
+    "proverb": "چماچہ چوستی نکی ٹھاشٹا نخرہ",
+    "translation": "Little beauty, yet endless pretension.",
+    "language": "Khowar",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 359,
+    "proverb": "عورت پھیروانوں بچیں موش میدانوں بچیں",
+    "translation": "Man for the open field; woman for the domestic hearth.",
+    "language": "Khowar",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 360,
+    "proverb": "عورتو شونګہ ژانگ کولانو ژانگہ",
+    "translation": "A woman fights her battle in childbed; a man fights his on the battlefield.",
+    "language": "Khowar",
+    "theme": "Children"
+  },
+  {
+    "id": 361,
+    "proverb": "لوٗو لوٹ کوریکو سار دونو لوٹ کو",
+    "translation": "Better (for a woman) to make a large block of butter than to speak big words.",
+    "language": "Khowar",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 362,
+    "proverb": "چیق کی کیڑیتاٰے نان تو دایئر",
+    "translation": "The mother feeds her child only when he cries.",
+    "language": "Khowar",
+    "theme": "Children"
+  },
+  {
+    "id": 363,
+    "proverb": "غوٹو لوان غوٹو نان ہوش کوئے",
+    "translation": "Only a mother understands her mute child's unspoken words.",
+    "language": "Khowar",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 364,
+    "proverb": "جم عورتو غاریہ پتہ بوئے،جم کولانو موسافریہ",
+    "translation": "A woman's skill is proven in the high pasture; a man's is proven in travel.",
+    "language": "Khowar",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 366,
+    "proverb": "ناقابلو درونګ پیتین",
+    "translation": "An unskilled woman uses an excessively long thread.",
+    "language": "Khowar",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 367,
+    "proverb": "جنیں پاد ءِ سواس انت۔",
+    "translation": "The wife is a shoe for the foot.",
+    "language": "Balochi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 368,
+    "proverb": "برات گوہارانی آہنی پھل انت، پِت جنکانی سایگ انت سردیں، مات جنکانی شگ و آدینک انت۔",
+    "translation": "A brother is a strong iron wall of protection for sisters; a father is a cool shadow for daughters; a mother is a comb and mirror for girls.",
+    "language": "Balochi",
+    "theme": "Children"
+  },
+  {
+    "id": 369,
+    "proverb": "جنیں شیطان ءِ کدو انت۔",
+    "translation": "A woman is the nest/abode of Satan.",
+    "language": "Balochi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 370,
+    "proverb": "برات اگر کور انت، گوہار چمدار انت۔",
+    "translation": "A sister looks up to her brother for support, even if he is blind.",
+    "language": "Balochi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 372,
+    "proverb": "گوہار و جن ءِ پاسبان خدا انت۔",
+    "translation": "God is the ultimate guardian of a wife and a sister.",
+    "language": "Balochi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 373,
+    "proverb": "جنیں چک نان پہ قسمت وارت۔",
+    "translation": "A female child gets her food only by luck/destiny.",
+    "language": "Balochi",
+    "theme": "Children"
+  },
+  {
+    "id": 374,
+    "proverb": "جنیں چک مثال ءِ پل اے۔ روچے نہ روچے یکے زرت ئے روت۔",
+    "translation": "A daughter is like a flower; one day someone will come and pick her away.",
+    "language": "Balochi",
+    "theme": "Children"
+  },
+  {
+    "id": 375,
+    "proverb": "گوہار کہ برات نیست، بزاں کلات ءِ واجہ ئے مان نیست۔",
+    "translation": "A woman without a brother is like a fortress without a master.",
+    "language": "Balochi",
+    "theme": "Authority"
+  },
+  {
+    "id": 376,
+    "proverb": "جنیں ءِ لگام ءَ مرد داریت۔",
+    "translation": "The reins/control of a woman are in a man's hands.",
+    "language": "Balochi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 377,
+    "proverb": "جنیں ءِ کور پُر انت بلے نہ تاچیت۔",
+    "translation": "A woman's river is full, yet it does not flow.",
+    "language": "Balochi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 378,
+    "proverb": "جنک لاج کنت بہا لک انت، مردیں کہ لاج کنت بہا کاہ انت۔",
+    "translation": "A shy woman is worth a hundred thousand; a shy man is worth a blade of grass.",
+    "language": "Balochi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 379,
+    "proverb": "سکی اں برات مرکب اں اوشتان، وشیاں اتونیں جن اوں نوشاں۔",
+    "translation": "In hardship, brothers stand like riding camels; in happiness, one enjoys with a wife.",
+    "language": "Balochi",
+    "theme": "Marriage"
+  },
+  {
+    "id": 380,
+    "proverb": "برات ءِ شوڈکیں لاپ سیر بیت، گوہار ءِ سوتکگیں مگونگ درا نبیت۔",
+    "translation": "A brother's hungry stomach eventually gets filled, but a sister's burnt wound never heals.",
+    "language": "Balochi",
+    "theme": "Eating Habits"
+  },
+  {
+    "id": 381,
+    "proverb": "جنیں پہ گپ، مردیں پہ کار۔",
+    "translation": "Women are for talking, men are for action.",
+    "language": "Balochi",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 382,
+    "proverb": "جنیں ءِ عقل پاد ءِ پونزہ ءَ انت۔",
+    "translation": "A woman's intellect lies under her heel.",
+    "language": "Balochi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 383,
+    "proverb": "جنیں چک پہ لوگ ءَ، مردیں چک پہ سیل و ساد۔",
+    "translation": "A female child is for the house; a male child is for outings and the public sphere.",
+    "language": "Balochi",
+    "theme": "Children"
+  },
+  {
+    "id": 384,
+    "proverb": "جنیں پہ نشگ ءَ، مردیں پہ دیوان ءَ۔",
+    "translation": "Women are for sitting at home, men are for the public council (dewan).",
+    "language": "Balochi",
+    "theme": "Marriage"
+  },
+  {
+    "id": 385,
+    "proverb": "جنیں ئے عقل تنگ انت۔",
+    "translation": "A woman's mind/understanding is narrow.",
+    "language": "Balochi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 386,
+    "proverb": "جنیں کہ جنوزام بیت، سوچیت و سامان بیت۔",
+    "translation": "When a woman becomes a widow, she becomes like a burnt object.",
+    "language": "Balochi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 387,
+    "proverb": "جنیں کاش ءِ گوک نوارث، مرد مکسکے من پگہ تلا انت۔",
+    "translation": "A woman is like dry grass that even a cow won't eat; a man is a fly sitting proudly on a golden turban.",
+    "language": "Balochi",
+    "theme": "Animals"
+  },
+  {
+    "id": 388,
+    "proverb": "جنیں یار ئے شیطان ئے۔",
+    "translation": "A woman is a friend of the devil.",
+    "language": "Balochi",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 389,
+    "proverb": "جنیں ءَ بپست چو پس ءَ ترا وش نام کنت گوں ہر کس ءَ۔",
+    "translation": "Feed your wife like a goat and she will praise your name to everyone.",
+    "language": "Balochi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 390,
+    "proverb": "جنیں کپے بس انت۔",
+    "translation": "Half a wife was enough.",
+    "language": "Balochi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 391,
+    "proverb": "جنیں چک چربیں زک ے۔",
+    "translation": "A female child is like an oily leather skin container.",
+    "language": "Balochi",
+    "theme": "Children"
+  },
+  {
+    "id": 392,
+    "proverb": "جنیں کچنـبکیں پہ گشگ شرکار نبیت۔",
+    "translation": "A corrupt/stubborn woman cannot be made good by mere advice.",
+    "language": "Balochi",
+    "theme": "Intelligence"
+  },
+  {
+    "id": 393,
+    "proverb": "جنک چو اسک ءَ ببیت، بچک چو شیر ءَ ببیت۔",
+    "translation": "A girl should be gentle like a deer, a boy should be brave like a lion.",
+    "language": "Balochi",
+    "theme": "Animals"
+  },
+  {
+    "id": 394,
+    "proverb": "جنیں کنیزگے، راست ئے کن ئے پروشیت۔",
+    "translation": "A woman is like a delicate stalk; if you try to force it straight, it breaks.",
+    "language": "Balochi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 395,
+    "proverb": "دو پاد ءِ مات ءَ شر کن، چار پاد ءِ پِت ءَ۔",
+    "translation": "Ensure the mother of two feet (human) is good, and the father of four feet (livestock) is good.",
+    "language": "Balochi",
+    "theme": "Animals"
+  },
+  {
+    "id": 396,
+    "proverb": "डोहाळ्यावरून मुलाची लक्षणें ओळखावीं",
+    "translation": "A child's character may be known by the mother's longings (during pregnancy).",
+    "language": "Marathi",
+    "theme": "Children"
+  },
+  {
+    "id": 397,
+    "proverb": "त्याचा बाप तोच",
+    "translation": "He is his own father. It is a father's duty to punish; here, he is punishing himself by his folly, and therefore is his own father.",
+    "language": "Marathi",
+    "theme": "Authority"
+  },
+  {
+    "id": 398,
+    "proverb": "दत्त म्हणून उभा",
+    "translation": "Adopted therefore he stands forward.",
+    "language": "Marathi",
+    "theme": "Authority"
+  },
+  {
+    "id": 399,
+    "proverb": "दरिद्री सार्यांचा मेहुणा",
+    "translation": "A poor man is brother-in-law of all.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 400,
+    "proverb": "दादा अंगी वहिनी सोयरी",
+    "translation": "A brother is one's own flesh, his wife is only a relative.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 401,
+    "proverb": "दादाची किल्ली वहिनीपाशी",
+    "translation": "My brother's key is with his wife. She can influence him. Also a similar proverb, Dadaci khoda vahinila mahita (My brother's bad habit is known to my brother's wife).",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 402,
+    "proverb": "दुबळी आई आणि कोरडी नाई",
+    "translation": "A poor mother is like a dry river.",
+    "language": "Marathi",
+    "theme": "Children"
+  },
+  {
+    "id": 403,
+    "proverb": "नणंद आणि कळींचा आनंद",
+    "translation": "A husband's sister takes pleasure in mischief.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 404,
+    "proverb": "नणंद खेळी रहाटाची फळी",
+    "translation": "A husband's sister is mischievous; she is like the board of a spinning-mill. She sits quietly and sets others quarrelling.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 406,
+    "proverb": "बापानें मुलाला मारलें तरी वेगळा होत नाहीं",
+    "translation": "Although the father beat his son they do not separate from each other.",
+    "language": "Marathi",
+    "theme": "Children"
+  },
+  {
+    "id": 407,
+    "proverb": "बेटी बापाची जमीन पादशाहाची",
+    "translation": "A daughter is her father's (just as) the land is the emperor's. He arranges for her marriage.",
+    "language": "Marathi",
+    "theme": "Children"
+  },
+  {
+    "id": 408,
+    "proverb": "मागून पुढून बापच नवरा",
+    "translation": "First and last father is the bridegroom. A widower remarrying who does not arrange for his son's marriage.",
+    "language": "Marathi",
+    "theme": "Marriage"
+  },
+  {
+    "id": 409,
+    "proverb": "लेंक असली परी परी तरी परघरीं जाणारी",
+    "translation": "Although a daughter be a fairy she will go to a stranger's house, i.e. she will marry.",
+    "language": "Marathi",
+    "theme": "Children"
+  },
+  {
+    "id": 410,
+    "proverb": "व्याह्या जांवयां तुपाचा पेला आणि घरचा पाहुणा उपाशी मेला",
+    "translation": "A cup of butter to the son-in-law and his father while the guest dies of starvation.",
+    "language": "Marathi",
+    "theme": "Eating Habits"
+  },
+  {
+    "id": 411,
+    "proverb": "सोयऱ्यांत साळा हत्यारांत भाला",
+    "translation": "A brother-in-law among relatives; a spear among weapons. These are good.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 412,
+    "proverb": "केस ना मेस बोडकीस बेस",
+    "translation": "Neither hair nor anything yet a widow is attractive.",
+    "language": "Marathi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 413,
+    "proverb": "कोणाला कशाचें व बोडकीला केसाचें",
+    "translation": "Some are thinking of their trials, the widow is thinking of her hair.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 414,
+    "proverb": "बोडकीला कुंकू व वांझेला कातबोळा",
+    "translation": "Forehead-powder to a widow, and katabola (medicine) to a barren woman. Both useless.",
+    "language": "Marathi",
+    "theme": "Idle & Useless"
+  },
+  {
+    "id": 415,
+    "proverb": "बोडकें न्हाले आणि पाणी वायां गेले",
+    "translation": "The widow bathed and the water was wasted. It is useless for a widow to bathe and adorn herself as she has no husband.",
+    "language": "Marathi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 416,
+    "proverb": "रांड बिंड म्हणा आणि पोटभर वाढा",
+    "translation": "Call me a widow or what you like but give me enough to eat.",
+    "language": "Marathi",
+    "theme": "Eating Habits"
+  },
+  {
+    "id": 417,
+    "proverb": "आपा घर की बाप घर",
+    "translation": "Her own house or her father's. There is no other place for a married woman.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 418,
+    "proverb": "आपण नागवी पाहणारे लबाड",
+    "translation": "She herself is naked (shameless), (yet calls) those who are looking at her wicked.",
+    "language": "Marathi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 419,
+    "proverb": "एक गोरी बाहत्तर खोडी चोरी",
+    "translation": "One fair woman (and she has) seventy-two hidden vices.",
+    "language": "Marathi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 420,
+    "proverb": "एक तिडीक दे आणि घरची धनीण हो",
+    "translation": "Bear the pain once and become mistress of the house. The wife's position is greatly improved after she has had a son.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 421,
+    "proverb": "एक पुती रडती दुपुती रडती सातपुती रडती आणि निपुती ती पण रडती",
+    "translation": "She who has one child cries, she who has two cries, she who has seven cries, and she who has none she also cries. No one is satisfied.",
+    "language": "Marathi",
+    "theme": "Children"
+  },
+  {
+    "id": 422,
+    "proverb": "गौर रुसली सौभाग्य घेऊन बसली",
+    "translation": "The girl sulked and sat gravely like a married woman.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 423,
+    "proverb": "जिकडे गेली वांझ तिकडे झाली सांज",
+    "translation": "Where the childless woman goes there she will stay till evening.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 424,
+    "proverb": "दुसऱ्याची स्त्री विष वल्ली",
+    "translation": "Another's wife is a poisonous plant.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 425,
+    "proverb": "नकटीचे लग्नास सतराशें विघ्नें",
+    "translation": "There are seventeen hundred objections to a noseless woman's marriage!",
+    "language": "Marathi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 426,
+    "proverb": "नारीचें बोलणें गवताचें शेकणें",
+    "translation": "A woman's talk (is like) heat from grass, i.e. it is useless.",
+    "language": "Marathi",
+    "theme": "Talkativeness"
+  },
+  {
+    "id": 427,
+    "proverb": "फुकाची बाईल कशाला राहील",
+    "translation": "A woman who costs nothing; why will she remain? Others will not serve us for nothing.",
+    "language": "Marathi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 428,
+    "proverb": "बायकांची अक्कल चुलीपाशी",
+    "translation": "Women's wisdom is connected with the fire-place.",
+    "language": "Marathi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 429,
+    "proverb": "बायकांचे गाणे आणि नागवे न्हाणे",
+    "translation": "Women's singing and naked bathing. Both are bad. Respectable women in India do not sing and they bathe in their clothes.",
+    "language": "Marathi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 430,
+    "proverb": "बायकोचा कावा न कळे ब्रह्मदेवा",
+    "translation": "Even Bramha does not know the schemings of a woman.",
+    "language": "Marathi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 431,
+    "proverb": "लावशील लळा तर पडेल गळां",
+    "translation": "If you show her affection she will fall about your neck.",
+    "language": "Marathi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 432,
+    "proverb": "स्त्रियांची वर्मे स्त्रियांस माहीत",
+    "translation": "Women know the foibles of women.",
+    "language": "Marathi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 433,
+    "proverb": "स्त्रिया साधनानुकूल होत",
+    "translation": "Women are attracted by rich men. By a slight alteration it may mean 'by riches;' and also, 'Women are subdued by tricks.'",
+    "language": "Marathi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 434,
+    "proverb": "आपण विणा सवत साहीना",
+    "translation": "She herself does not bear children and yet she cannot endure a fellow-wife. 'Dog in the manger' spirit.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 435,
+    "proverb": "एका पुरुषाच्या दोन बायका घरांत किरकिर करूं नका",
+    "translation": "The two wives of one man, let them not quarrel in the house!",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 436,
+    "proverb": "कागा बाई दुबळी म्हणे निघाले वेगळी",
+    "translation": "O madam! why are you so thin? 'I have separated from my husband.'",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 437,
+    "proverb": "चांगली बायको जगाची वाईट बायको मनाची",
+    "translation": "A good-looking wife is the world's, an ugly one is our own.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 438,
+    "proverb": "जिच्या नवरा दास्यट तिचा संसार चोखट",
+    "translation": "She manages well whose husband is a slave to her. The Indian wife is generally a good manager if left alone.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 439,
+    "proverb": "जित्या नाहीं गोडी आणि मेल्या बंधनें तोडी",
+    "translation": "While he was alive she was not affectionate, now he is dead she breaks her necklaces and bangles.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 440,
+    "proverb": "जेथें दगड तेथें धगड",
+    "translation": "Where there is a (husband of) stone there will be a paramour.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 441,
+    "proverb": "जोरू साथ आणि पैसा गांठ",
+    "translation": "Tie up and carry with you your wife and your money. Neither should be trusted to the care of another.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 442,
+    "proverb": "डाग झाला जुना आणि मला पतिव्रता म्हणा",
+    "translation": "The thing has become old and (says) 'Call me a faithful wife.'",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 443,
+    "proverb": "तरणीचे गाल म्हातारीचे हाल",
+    "translation": "The young wife's cheeks: the old wife's neglect. He is fond of kissing his young wife.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 444,
+    "proverb": "तासा आड बैल आणि दिसा आड बायको मारावी",
+    "translation": "Beat a bullock every other furrow, and a wife every other day. A Shudra proverb. 'A spaniel, a woman, and a walnut-tree, the more they're beaten the better they will be' (English).",
+    "language": "Marathi",
+    "theme": "Animals"
+  },
+  {
+    "id": 445,
+    "proverb": "दादल्यापेक्षां बायको मोठी मुसळ घेऊन लागे पाठीं",
+    "translation": "If the wife be bigger than the husband she will run after him with the pestle.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 446,
+    "proverb": "नवऱ्याचें मारणें आणि चिखलांत पडणें",
+    "translation": "A husband's beating is like a fall in the mud. The consequences are soon forgotten.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 447,
+    "proverb": "नवें नवें जेवी सवें",
+    "translation": "While new they dine together! Refers to newly-married people. After a time the husband takes his meal first.",
+    "language": "Marathi",
+    "theme": "Marriage"
+  },
+  {
+    "id": 448,
+    "proverb": "नव्याचे नऊ दिवस मेल्याचे तीन दिवस",
+    "translation": "Of a new (husband) nine days, of a dead one three days. This is how long a wife's love lasts!",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 449,
+    "proverb": "नव्या नव्या बायकांच्या नव्या नव्या परी पहिली होती ती असें नाहीं करी",
+    "translation": "New wives have new fancies, the first did not behave so.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 450,
+    "proverb": "नाजूक नार आणि चाबकाचा मार",
+    "translation": "A delicate wife and beating with a whip. Perhaps implying that if strong and robust the husband would think twice before beating her.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 451,
+    "proverb": "नावडतीची आली पाळी गांवाची झाली होळी",
+    "translation": "The turn of the disliked wife came and the village was set on fire. The man's two wives take turns in cooking. The holi is a pile of wood burnt at the Holi festival.",
+    "language": "Marathi",
+    "theme": "Marriage"
+  },
+  {
+    "id": 452,
+    "proverb": "नावडतीचें मीठ अळणी आवडतीचा शेंबूड गोड",
+    "translation": "The salt of the disliked wife is tasteless, the mucus from the nose of the favoured wife is pleasant. The two are wives of one man.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 453,
+    "proverb": "पतिव्रता नार रात्रीं हिंडे दारोदार",
+    "translation": "A faithful wife yet she goes from door to door at night.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 454,
+    "proverb": "पतिव्रता नी मुसळ देवता",
+    "translation": "A faithful wife or the pestle as a god. (A story is told of a devout wife pounding rice with a long pestle; when her husband called her, she let go of the raised pestle to obey him, and it stayed suspended in the air, proving her faithfulness. Another wife, hoping for the same fame, tried the same trick, but the pestle fell and bruised her head. Now applied to one who boasts of her faithfulness, with the reply: 'A faithful wife! yes, or else the pestle is your god.')",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 455,
+    "proverb": "फिरली नार तर भ्रतार मार",
+    "translation": "If the woman turn on her husband she may kill him.",
+    "language": "Marathi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 456,
+    "proverb": "बायकांना लोण्याची सवतही सहन होत नाहीं",
+    "translation": "Women cannot endure a fellow-wife even if she be (soft as) butter.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 457,
+    "proverb": "बायको दुसरी फजिती तिसरी",
+    "translation": "A second wife; disgraceÊ a third thing. The two wives will quarrel and bring disgrace.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 458,
+    "proverb": "म्हातारा दादला जिवाला आधार",
+    "translation": "An old husband is a support to life. Or, perhaps better, kunkumala adhar (an excuse for using the forehead mark), i.e. it shows that she is a wife, not a widow.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 459,
+    "proverb": "शिळी भाकर ताकानें गोड व वाईट बायको पोरानें गोड",
+    "translation": "Stale bread is sweet with butter-milk and a bad wife becomes sweet when she has a child.",
+    "language": "Marathi",
+    "theme": "Eating Habits"
+  },
+  {
+    "id": 460,
+    "proverb": "स्त्रियाचा जीव पती",
+    "translation": "The husband is the life of the woman.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 461,
+    "proverb": "कशी गे सुने घरासारखी",
+    "translation": "O daughter-in-law! why are you behaving so? (She answers) 'Like the household.'",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 462,
+    "proverb": "कानाला कोंपर झडेना सासू मेली जांवई रडेना",
+    "translation": "The elbow will not touch the ear and the son-in-law will not cry when his mother-in-law dies.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 463,
+    "proverb": "गांवचा गांढ्या पण सासवेचा देशपांड्या",
+    "translation": "A fool in the village but a lord in the opinion of his mother-in-law.",
+    "language": "Marathi",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 464,
+    "proverb": "चार दिवस सासूचे चार दिवस सुनेचे",
+    "translation": "Four days of the mother-in-law's (authority) and four days of the daughter-in-law's. The latter asserts her authority when she has children.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 465,
+    "proverb": "पोराला पंतोजी व पोरीला सासू",
+    "translation": "A teacher for a boy,Ê a mother-in-law for a girl. The one is the equivalent of the other.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 466,
+    "proverb": "बोले धुवे लागे सुने",
+    "translation": "Whether talking or cleaning (the pots) it affects the daughter-in-law. Whatever the mother-in-law says or does is intended to reprove the daughter-in-law. If dhuva means 'daughter' (Molesworth) then the proverb would be, 'What is said to the daughter is meant for the daughter-in-law.'",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 467,
+    "proverb": "माहेरचें सुख सासरीं होतें दुःख",
+    "translation": "(The girl feels) happiness at home but pain at her mother-in-law's.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 468,
+    "proverb": "लेंकीस बोले सुनेस लागे",
+    "translation": "What is said to the daughter is meant for the daughter-in-law. So that the girl may not complain to her mother or her husband, the sasu addresses her own daughter, urges her to work, chides her for laziness, etc., but all the time she intends it for her daughter-in-law. The first words may be kombadisa bole (What is said to the fowls).",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 469,
+    "proverb": "वेडीला सासर काय आणि माहेर काय",
+    "translation": "What is a mother-in-law's house or a mother's house to a mad woman? She would be mad indeed not to know the difference.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 470,
+    "proverb": "सावत्र आई विषय जाई",
+    "translation": "A step-mother, and no enjoyment.",
+    "language": "Marathi",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 472,
+    "proverb": "सासरीं जातां कुचकुच कांटे माहेरीं येतां हरीख वाटे",
+    "translation": "She walks on thorns to her mother-in-law's, but she feels delight in coming to her mother's house.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 473,
+    "proverb": "सासवेचे दोंदावर जांवई उदार",
+    "translation": "The son-in-law is liberal with the distended paunch (property) of his mother-in-law.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 474,
+    "proverb": "सासू गेली ठीक झालें घरदार हातीं आलें",
+    "translation": "I am glad mother-in-law has gone (is dead), the whole house is now in my hands. The last phrase is also quoted tupatse gadage hati ale (the butter-pot has come into my charge).",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 475,
+    "proverb": "सासूचा पाय सुनेला लागला सुनेचा पाय सासूला लागला तरी सुनेनेच पाया पडावें",
+    "translation": "If the mother-in-law's foot knock against the daughter-in-law, or if the daughter-in-law's foot knock against the mother-in-law, it is the daughter-in-law who must beg pardon.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 476,
+    "proverb": "सासूची वाईट खोड नवरा व मी असले गोड मग इला येतो फोडा",
+    "translation": "Mother-in-law's bad habit; she hates my husband to be kind to me.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 477,
+    "proverb": "सासूपणा आला म्हणजे सूनपणाचा जाच विसरते",
+    "translation": "On becoming a mother-in-law the torments of being a daughter-in-law are forgotten.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 478,
+    "proverb": "सासूमागें सून नाचे",
+    "translation": "The daughter-in-law must dance to the mother-in-law's tune.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 479,
+    "proverb": "सासूला मार आणि सुनेला धाक",
+    "translation": "Beat the mother-in-law and the daughter-in-law will be afraid.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 480,
+    "proverb": "सासू सांजोऱ्या तळे माझा जीव जळे",
+    "translation": "Mother-in-law is making cakes: may my soul be burnt, i.e. I need not expect to get any.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 481,
+    "proverb": "सुनेला दडपण सासू",
+    "translation": "The mother-in-law is a check on the daughter-in-law.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 482,
+    "proverb": "अशी लेंक हवई घरोघर जांवई",
+    "translation": "A daughter so fair; a son-in-law from every house. All will want to marry her. Another similar saying is Asa lenka dana gharoghara suna (A son so good; a daughter-in-law from every house).",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 483,
+    "proverb": "असतील बाळ तर फेडतील काळ",
+    "translation": "If there be sons they will prevent misfortune.",
+    "language": "Marathi",
+    "theme": "Children"
+  },
+  {
+    "id": 484,
+    "proverb": "असत्याचा बाप नसत्याची आई",
+    "translation": "A father for the profitable son, a mother for the unprofitable. 'In prosperity, a father; in adversity, a mother' (Hindustani).",
+    "language": "Marathi",
+    "theme": "Children"
+  },
+  {
+    "id": 485,
+    "proverb": "आईच्या लाडामुळे मूल होई खुळें",
+    "translation": "By the mother's petting the child becomes an idiot.",
+    "language": "Marathi",
+    "theme": "Children"
+  },
+  {
+    "id": 486,
+    "proverb": "आपलें तें बापडें दुसऱ्याचें तें कातडें",
+    "translation": "Our own child is tender, another's is (as tough as) leather. Or the last word may be karate (an urchin). Sometimes the two rhyming words are gojiravane (graceful) and laziravane (graceless). 'Every man thinks his own geese swans' (English).",
+    "language": "Marathi",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 487,
+    "proverb": "खायाला आजी करायाला शेजी",
+    "translation": "A grandmother at eating, a neighbour at working. One ready to eat who keeps away when there is work.",
+    "language": "Marathi",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 488,
+    "proverb": "जांवई शोध",
+    "translation": "A son-in-law search. He is petted and feasted when he visits his wife's relatives.",
+    "language": "Marathi",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 489,
+    "proverb": "ఆడదానిచేతి అర్థమూ మొగవానిచేతి బిడ్డా బ్రతకదు",
+    "translation": "Money left in the hands of a woman wont last; a child left in the hands of a man wont live.",
+    "language": "Telugu",
+    "theme": "Children"
+  },
+  {
+    "id": 490,
+    "proverb": "ఆడదాని మాట నీళ్ల మూట",
+    "translation": "A woman's word, a bundle of water. (A woman's mind and winter wind change oft.)",
+    "language": "Telugu",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 491,
+    "proverb": "ఆడది బొంకితే గోడ పెట్టినట్లు మొగవాడు బొంకితే తడిక కట్టినట్లు",
+    "translation": "If a woman lies, it's like building a wall; if a man lies, it's like putting up a mat (easily seen through).",
+    "language": "Telugu",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 492,
+    "proverb": "ఆడ పైత్తనము తంబళి దొరతనము",
+    "translation": "Woman's rule, a Tambali's government. (A Tambali is a Saiva priest of low origin, who wears the sacred thread and endeavours to observe Brahminical customs.)",
+    "language": "Telugu",
+    "theme": "Authority"
+  },
+  {
+    "id": 493,
+    "proverb": "బుషిమూలము నదీమూలము స్త్రీ మూలము విచారించకూడదు",
+    "translation": "Enquire not into the origin of a Rishi, a river, or a woman.",
+    "language": "Telugu",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 494,
+    "proverb": "కడవంత గుమ్మడికాయ అయినా కత్తిపీటకు లోకువ",
+    "translation": "Although the pumpkin be as big as a large pot, yet it is subject to the kitchen knife. However great a family a wife may come from, she must still be subject to her husband.",
+    "language": "Telugu",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 495,
+    "proverb": "కుట్టిన తేలు గుణవంతురాలు కూశినమ్మ కుక్క ముండ",
+    "translation": "The scorpion which stung is a good tempered creature, the [stung] woman who bawled out is a wretched slut. (A mischief maker often escapes blame.)",
+    "language": "Telugu",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 496,
+    "proverb": "కులమింటి కోతి అయినా మేలు",
+    "translation": "A monkey [-like wife] of good family is better [than a pretty wife of low origin].",
+    "language": "Telugu",
+    "theme": "In-Laws"
+  },
+  {
+    "id": 497,
+    "proverb": "తల్లిని చూచి పిల్లనూ పాడిని చూచి బర్రెనూ తీసుకోవలెను",
+    "translation": "Look at the mother before you take the daughter; see how much milk the buffalo gives before you buy her.",
+    "language": "Telugu",
+    "theme": "Children"
+  },
+  {
+    "id": 499,
+    "proverb": "నవ్వే ఆడదాన్ని ఏడ్చే మొగవాన్ని నమ్మరాదు",
+    "translation": "A laughing woman and a crying man should not be trusted.",
+    "language": "Telugu",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 500,
+    "proverb": "మున్నూరు శిఖలయినా కూడ వచ్చునుగాని మూడు కొప్పులు కూడ రాదు",
+    "translation": "Three hundred Sikhas (i.e. men) may come together, but three Koppus (i.e. women) should not get together. (Sikha is the top-lock worn by men and Koppu is a woman's chignon.)",
+    "language": "Telugu",
+    "theme": "Marriage"
+  },
+  {
+    "id": 501,
+    "proverb": "మొయిలు విడిచిన యెండ మొగుడు విడిచిన ముండ పట్టి విడిచిన మండ రెత్తి విడిచిన కుండ తీక్ష్ణము",
+    "translation": "The heat of the sun emerging from the clouds—the passion of a meretricious woman separated from her husband—the violence of a bough bent and let go—the force of a pot lifted up and dropped—are great. (\"Give the water no passage; neither a wicked woman liberty to gad abroad.\" Ecclesiasticus xxv. 25.)",
+    "language": "Telugu",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 502,
+    "proverb": "రంకాడనేర్చినమ్మ బొంకాడనేరదా",
+    "translation": "Will the woman who has learnt to play the harlot, not learn to lie?",
+    "language": "Telugu",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 503,
+    "proverb": "లంజకు పిల్ల తఖలాటము",
+    "translation": "A child is a hindrance to a harlot.",
+    "language": "Telugu",
+    "theme": "Children"
+  },
+  {
+    "id": 504,
+    "proverb": "లంజ చెడి యిల్లాలు అయినది",
+    "translation": "The changed harlot became an honest woman. (Ironical.) Chastity gone once, gone for ever.",
+    "language": "Telugu",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 505,
+    "proverb": "లంజ బిడ్డకు తండ్రి యెవరు",
+    "translation": "Who is the father of a harlot's child?",
+    "language": "Telugu",
+    "theme": "Children"
+  },
+  {
+    "id": 506,
+    "proverb": "వెర్రివాడి పెండ్లాము వాడవదినా",
+    "translation": "A madman's wife is common property. (The helpless are mocked and ill-treated.)",
+    "language": "Telugu",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 507,
+    "proverb": "తల్లి చేసినది తనయులకు",
+    "translation": "What a mother does, [falls] on her children. (If she sin, her children are disgraced.)",
+    "language": "Telugu",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 508,
+    "proverb": "బహునాయకం బాలనాయకం స్త్రీనాయకం",
+    "translation": "Having many leaders, having a youthful leader, having a female leader (Is equally bad). (Said of people, an army, etc.)",
+    "language": "Telugu",
+    "theme": "Authority"
+  },
+  {
+    "id": 509,
+    "proverb": "अनायका विनश्यन्ति नश्यन्ति शिशुनायकाः। स्त्रीनायका विनश्यन्ति नश्यन्ति बहुनायकाः॥",
+    "translation": "Those without a leader perish; those with a youthful leader perish; those with a female leader perish; those with many leaders perish.",
+    "language": "Sanskrit",
+    "theme": "Authority"
+  },
+  {
+    "id": 510,
+    "proverb": "आत्मबुद्धिस्सुखं चैव गुरुबुद्धिर्विशेषतः। परबुद्धिर्विनाशाय स्त्रीबुद्धिः प्रलयंकरी॥",
+    "translation": "One's own resolve is happy, the priest's advice is better; another's advice is for one's ruin, woman's counsel is destructive.",
+    "language": "Sanskrit",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 511,
+    "proverb": "उत्तमं स्वार्जितं वित्तं मध्यमं पित्रार्जितम्। अधमं भ्रातृवित्तं च स्त्रीवित्तमधमाधमम्॥",
+    "translation": "[To live upon] self-acquired property is good, [to live upon] that acquired by a father is middling, [to live upon] a brother's property is low, [to live upon] a woman's property is the lowest of the low.",
+    "language": "Sanskrit",
+    "theme": "Property & Wealth"
+  },
+  {
+    "id": 512,
+    "proverb": "औदुंबराणि पुष्पाणि श्वेतवर्णं च वायसं। मत्स्यपदं जले पश्येन्नारीहृदयस्थितं॥",
+    "translation": "The flowers of the fig tree, a white-coloured crow, a fish's foot in the water, one may see—but not what is in a woman's mind.",
+    "language": "Sanskrit",
+    "theme": "Animals"
+  },
+  {
+    "id": 513,
+    "proverb": "कदलीवंध्या काकीवंध्या॥",
+    "translation": "Barren as a plantain, barren as a crow. (A woman who has one child and then dies is like the plantain which produces one bunch and then perishes; a woman who brings forth once and is afterwards barren is like the crow which lays eggs but once.)",
+    "language": "Sanskrit",
+    "theme": "Animals"
+  },
+  {
+    "id": 514,
+    "proverb": "कार्येषु दासी करणेषु मंत्री रूपे च रंभा क्षमया धरित्री। भोज्येषु माता शयने तु वेश्या षड्धर्मयुक्ता खलु धर्मपत्नी॥",
+    "translation": "In work, a slave; in business, a minister; in form a Rambha; in patience, [like] the earth; in [providing] food, a mother; in conjugal enjoyments, a courtesan:—is not she who possesses these six qualities, a dutiful wife?",
+    "language": "Sanskrit",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 515,
+    "proverb": "कोकिलानां खरो रूपं पातिव्रत्यं तु योषितां। विद्या रूपं विरूपाणां क्षमा रूपं तपस्विनां॥",
+    "translation": "The voice is the beauty of cuckoos; chastity is the beauty of women; learning is the beauty of the deformed; patience is the beauty of ascetics.",
+    "language": "Sanskrit",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 516,
+    "proverb": "तस्करस्य वधो दंडो दासीदंडस्तु मुंडनं। भार्यादंडः पृथक्कुर्या मित्रदंडस्त्वभाषणं॥",
+    "translation": "Death is the punishment of a robber, the punishment of a harlot is shaving the head; separation is the punishment of a wife, the punishment of a friend is not speaking to him.",
+    "language": "Sanskrit",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 517,
+    "proverb": "दिवा काकत्रासिता॥",
+    "translation": "In the daytime she was frightened by the cawing of a crow. (The feigned timidity of a loose woman.)",
+    "language": "Sanskrit",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 518,
+    "proverb": "न स्त्री स्वातंत्र्यमर्हति॥",
+    "translation": "A woman is not fit for independence.",
+    "language": "Sanskrit",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 519,
+    "proverb": "नारीणां भूषणं पतिः॥",
+    "translation": "A husband is the ornament of women.",
+    "language": "Sanskrit",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 520,
+    "proverb": "पिता च ऋणवान् शत्रुर्माता च व्यभिचारिणी। भार्या रूपवती शत्रुः पुत्रश्शत्रुरपण्डितः॥",
+    "translation": "A father in debt is an enemy [to his son]; a mother of bad conduct is an enemy [to her son]; a beautiful wife is an enemy [to her husband]; an unlearned son is an enemy [to his parents].",
+    "language": "Sanskrit",
+    "theme": "Authority"
+  },
+  {
+    "id": 521,
+    "proverb": "पितृदुःखं तु षण्मासं मातृदुःखं तु वत्सरः। भार्यादुःखं पुनर्भार्या पुत्रदुःखं निरंतरं॥",
+    "translation": "Sorrow for [the loss of] a father [lasts] six months; sorrow for a mother, a year; sorrow for a wife until a second wife [comes]; sorrow for a son, for ever.",
+    "language": "Sanskrit",
+    "theme": "Children"
+  },
+  {
+    "id": 522,
+    "proverb": "पुरुषाणामभावेन सर्वा नार्यः पतिव्रताः॥",
+    "translation": "In the absence of men, all women are chaste.",
+    "language": "Sanskrit",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 523,
+    "proverb": "पुस्तकं वनिता वित्तं परहस्तगतं गतं। अथवा पुनरायाति जीर्णं भ्रष्टं च खंडशः॥",
+    "translation": "A book, a woman, or money, when gone into the hand of another, is gone [indeed]; or it returns worn out, corrupted, or by bits.",
+    "language": "Sanskrit",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 524,
+    "proverb": "बद्धमूलस्य मूलं हि महद्वैरतरोः स्त्रियः॥",
+    "translation": "Women are the great root of the firmly-rooted tree of enmity. (\"Women and dogs set men together by the ears.\" \"A woman's vengeance knows no bounds.\" — German.)",
+    "language": "Sanskrit",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 525,
+    "proverb": "दुर्जनं काञ्चनं भेरीं दुष्टस्त्रीं दुष्टवाहनं। इक्षुखण्डान् तिलाश्च्छूद्रान् मर्दयेदुत्तरोत्तरे॥",
+    "translation": "A bad man, gold, a drum, a bad woman, a bad horse, stalks of sugar cane, sesamum seed, and Sudras should be beaten to improve their qualities. (\"A spaniel, a woman and a walnut tree, the more they be beaten, the better they be.'')",
+    "language": "Sanskrit",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 526,
+    "proverb": "मातृहीनं भृशं जीवं तथा कान्तहीनं नवयौवनं तथा। शांतिहीनं तपः फलं तथा तिंत्रिणीरसविहीनभोजनं॥",
+    "translation": "Vain is the life of a motherless child, so is the prime [of a woman] without a husband; penance without quietism is fruitless, so is food without tamarind juice.",
+    "language": "Sanskrit",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 527,
+    "proverb": "कुग्रामवासः कुजनस्य सेवा कुभोजनं क्रोधमुखी च भार्या। मूर्खस्य पुत्रो विधवा च कन्या विनाग्निना संदहते शरीरं॥",
+    "translation": "Residence in a hamlet, service under a low fellow, coarse food, an ill-tempered wife, a stubborn son, and a widowed virgin [daughter] burn the body without fire.",
+    "language": "Sanskrit",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 528,
+    "proverb": "राजा राष्ट्रकृतं पापं राजपापं पुरोहितः। भर्ता च स्त्रीकृतं पापं शिष्यपापं गुरुर्भजेत्॥",
+    "translation": "The king must answer for his country's sin; the priest for the king's sin; the husband for the wife's sin, and the Guru for the disciple's sin.",
+    "language": "Sanskrit",
+    "theme": "Authority"
+  },
+  {
+    "id": 529,
+    "proverb": "लज्जा स्त्रीभूषणं॥",
+    "translation": "Modesty is the ornament of women. (\"I will therefore that ... women adorn themselves ... with shamefacedness.\" 1 Timothy ii. 8, 9.)",
+    "language": "Sanskrit",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 530,
+    "proverb": "वृद्धा नारी पतिव्रता॥",
+    "translation": "An old woman, a chaste wife.",
+    "language": "Sanskrit",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 531,
+    "proverb": "वृद्धा वेश्या तपस्विनी॥",
+    "translation": "An old harlot, a female devotee.",
+    "language": "Sanskrit",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 532,
+    "proverb": "स्त्रियाश्चरितं पुरुषस्य भाग्यं देवा न जानंति कुतो मनुष्याः॥",
+    "translation": "The gods know not a woman's conduct and a man's fortune, how then can men?",
+    "language": "Sanskrit",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 533,
+    "proverb": "स्त्रियो मूलमनर्थानां॥",
+    "translation": "Women are the cause of mischief.",
+    "language": "Sanskrit",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 534,
+    "proverb": "स्त्रीणां द्विगुणमाहारो बुद्धिश्चापि चतुर्गुणा। साहसं षड्गुणं चैव कामोऽष्टगुण उच्यते॥",
+    "translation": "Women are said to eat twice as much [as men], to have four times as much sense, six times as much pluck, and eight times as much desire.",
+    "language": "Sanskrit",
+    "theme": "Eating Habits"
+  },
+  {
+    "id": 535,
+    "proverb": "ગાય લેવી દુઝતી, વહુ લેવી શોભતી.",
+    "translation": "Take a cow that gives milk; take a daughter-in-law (bride) who is beautiful. (Choosing a bride is likened to choosing livestock — for her looks/usefulness.)",
+    "language": "Gujrati",
+    "theme": "Marriage"
+  },
+  {
+    "id": 536,
+    "proverb": "ન મળી નારી એટલે સહેજે થાવા બ્રહ્મચારી. વૃદ્ધા નારી પતિવ્રતા.",
+    "translation": "Not finding a wife, one easily becomes celibate. An old woman is [naturally] a chaste wife. (Implies a woman's fidelity is only assured once she is old and no longer desired.)",
+    "language": "Gujrati",
+    "theme": "Chastity & Modesty"
+  },
+  {
+    "id": 537,
+    "proverb": "આદિ વેર ઘંટી તે ઘઉં, આદિ વેર સાસુ તે વહુ.",
+    "translation": "Primordial enmity [exists] between the grindstone and the wheat; primordial enmity [exists] between mother-in-law and daughter-in-law. (Listed alongside cat-and-mouse, thief-and-honest-man as a 'natural,' inevitable enmity.)",
+    "language": "Gujrati",
+    "theme": "Cunning & Evil"
+  },
+  {
+    "id": 538,
+    "proverb": "નારી ઘરનું નાક છે, નારી સુત દેનાર; નારીથી પંખાય છે, નારી સુખ આધાર. નારી વિનુ નિંદાય છે, નારી વિનુ નહીં સુખ; નારી વિનુ નહીં આભરણ, નારી વીસારો દુઃખ.",
+    "translation": "The wife is the honor ('nose') of the home; the wife is the giver of sons; through the wife one flourishes; the wife is the foundation of happiness. Without a wife one is disgraced; without a wife there is no happiness; without a wife there is no ornament; without a wife there is no forgetting of sorrow. (A woman's value is defined entirely through what she provides a husband/household, not as a person in her own right.)",
+    "language": "Gujrati",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 539,
+    "proverb": "પરનારી તાતી છરી, નિત નિત કાપે કાય; જેના રહ્યા રામછ, તે પરનારી ઘર જય. પરનારી પ્રત્યક્ષ દેખો, વીખ હળાહળ અંગ; રાવણનાં દશ શિષ ગ્યા, પરનારી સંગ.",
+    "translation": "Another man's wife is a hot knife, constantly cutting the body; [only] one who keeps to Ram [avoids] going to another's wife's house. See another's wife as pure poison in the flesh; Ravana lost his ten heads through [involvement with] another's wife. ",
+    "language": "Gujrati",
+    "theme": "Bride & Wife"
+  },
+  {
+    "id": 540,
+    "proverb": "પીયા રંગ રાતી રહે, જગસે રહેત ઉદાસ; પીયા ચહા કે મત ચહા, મેં તો પીયહી દાસ. આજ્ઞાકારી પીયહી, રહે પીયહ સંગ; તનમનસેં સેવા કરે, ઓર ન દુજે રંગ. પતિવ્રતાકે તન નહીં, સુરત બસે પીય મન. પતિવ્રતા પતિકુ ભજે, કળહુ નામ નહીં લેત.",
+    "translation": "She stays dyed in the color of her beloved, indifferent to the world; whether he desires her or not, she remains his servant. Obedient to her husband, she stays by his side; serves with body and mind, taking on no other color [loyalty]. The devoted wife has no [awareness of her own] body — her whole being dwells in her husband's mind. The devoted wife worships her husband, yet never [dares to] speak his name aloud. (The book's closing section, prescribing a wife's total self-erasure and obedience as virtue — including the old taboo against a wife ever saying her husband's name.)",
+    "language": "Gujrati",
+    "theme": "Bride & Wife"
+  }
+]
